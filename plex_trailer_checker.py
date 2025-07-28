@@ -453,13 +453,17 @@ def download_trailer(youtube_video_id, target_path, title="Trailer"):
     print(f"    🔗 YouTube: https://www.youtube.com/watch?v={youtube_video_id}")
     print(f"    📁 Saving to: {expected_file}")
     
-    # yt-dlp command with quality and format settings
+    # yt-dlp command with quality and format settings + VPN-friendly options
     cmd = [
         'yt-dlp',
         '--format', cfg['TRAILER_QUALITY'],  # e.g., 'best[height<=1080]'
         '--merge-output-format', cfg['TRAILER_FORMAT'],  # e.g., 'mp4'
         '--output', target_path,
         '--no-playlist',
+        '--force-ipv4',  # Prevent IPv6 leakage that could reveal real location
+        '--no-check-certificates',  # More permissive SSL handling for VPN
+        '--geo-bypass',  # Attempt to bypass geo-blocking
+        '--geo-bypass-country', 'DE',  # Tell yt-dlp we're in Germany
         youtube_url
     ]
     
