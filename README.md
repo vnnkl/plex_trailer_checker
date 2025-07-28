@@ -265,11 +265,11 @@ Show: Ironheart (2025)
     /APPBOX_DATA/.../Season 01/Trailers/Season_01_*.[ext]
 ```
 
-## How It Works with Your File Structure
+## File Structure
 
-For your example:
+For above example:
 ```
-/APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Ironheart (2025) {imdb-tt13623126}/Season 01/Ironheart - S01E01 - Take Me Home WEBDL-2160p.mkv
+/APPBOX_DATA/apps/yourappboxserverURL/Downloads/complete/Serien/Ironheart (2025) {imdb-tt13623126}/Season 01/Ironheart - S01E01 - Take Me Home WEBDL-2160p.mkv
 ```
 
 ### 1. Season Grouping

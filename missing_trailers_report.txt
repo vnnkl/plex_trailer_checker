@@ -1,0 +1,2483 @@
+================================================================================
+PLEX TRAILER CHECKER REPORT (SEASON-BASED)
+================================================================================
+Generated: 2025-07-28 21:59:26
+
+SUMMARY:
+  Shows analyzed: 159
+  Seasons analyzed: 308
+  Seasons with trailers: 0
+  Seasons without trailers: 308
+  Trailers downloaded: 0
+  Download failures: 0
+  API requests made: 0
+  Season trailer coverage: 0.0%
+
+REMAINING MISSING SEASON TRAILERS:
+--------------------------------------------------
+Show: 1923
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/1923 (2022) {imdb-tt18335752}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/1923 (2022) {imdb-tt18335752}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/1923 (2022) {imdb-tt18335752}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: 1923
+  Season 02 (7 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/1923 (2022) {imdb-tt18335752}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/1923 (2022) {imdb-tt18335752}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/1923 (2022) {imdb-tt18335752}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Achtsam Morden
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Murder Mindfully (2024) {imdb-tt30217222}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Murder Mindfully (2024) {imdb-tt30217222}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Murder Mindfully (2024) {imdb-tt30217222}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: The Agency
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Agency (2024) {imdb-tt26656917}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Agency (2024) {imdb-tt26656917}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Agency (2024) {imdb-tt26656917}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Akte X - Die unheimlichen Fälle des FBI
+  Season 01 (24 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Akte X - Die unheimlichen Fälle des FBI
+  Season 02 (25 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Akte X - Die unheimlichen Fälle des FBI
+  Season 03 (24 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Akte X - Die unheimlichen Fälle des FBI
+  Season 04 (24 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: Akte X - Die unheimlichen Fälle des FBI
+  Season 05 (20 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 05
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 05/Season_05_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 05/Trailers/Season_05_*.[ext]
+
+Show: Akte X - Die unheimlichen Fälle des FBI
+  Season 06 (22 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 06
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 06/Season_06_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 06/Trailers/Season_06_*.[ext]
+
+Show: Akte X - Die unheimlichen Fälle des FBI
+  Season 07 (22 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 07
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 07/Season_07_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 07/Trailers/Season_07_*.[ext]
+
+Show: Akte X - Die unheimlichen Fälle des FBI
+  Season 08 (21 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 08
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 08/Season_08_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 08/Trailers/Season_08_*.[ext]
+
+Show: Akte X - Die unheimlichen Fälle des FBI
+  Season 09 (19 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 09
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 09/Season_09_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 09/Trailers/Season_09_*.[ext]
+
+Show: Akte X - Die unheimlichen Fälle des FBI
+  Season 10 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 10
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 10/Season_10_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 10/Trailers/Season_10_*.[ext]
+
+Show: Akte X - Die unheimlichen Fälle des FBI
+  Season 11 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 11
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 11/Season_11_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The X-Files (1993) {imdb-tt0106179}/Season 11/Trailers/Season_11_*.[ext]
+
+Show: Alex Cross
+  Season 01 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Cross (2024) {imdb-tt11794812}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Cross (2024) {imdb-tt11794812}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Cross (2024) {imdb-tt11794812}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Alone - Überleben in der Wildnis
+  Season 06 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Alone (2015) {imdb-tt4803766}/Season 06
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Alone (2015) {imdb-tt4803766}/Season 06/Season_06_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Alone (2015) {imdb-tt4803766}/Season 06/Trailers/Season_06_*.[ext]
+
+Show: Alone - Überleben in der Wildnis
+  Season 11 (9 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Alone (2015) {imdb-tt4803766}/Season 11
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Alone (2015) {imdb-tt4803766}/Season 11/Season_11_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Alone (2015) {imdb-tt4803766}/Season 11/Trailers/Season_11_*.[ext]
+
+Show: Alone - Überleben in der Wildnis
+  Season 12 (5 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Alone (2015) {imdb-tt4803766}/Season 12
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Alone (2015) {imdb-tt4803766}/Season 12/Season_12_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Alone (2015) {imdb-tt4803766}/Season 12/Trailers/Season_12_*.[ext]
+
+Show: The Americas
+  Season 01 (1 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The.Americas.2025.S01E04.2160p.PCOK.WEB-DL.Hybrid.H265.DV.HDR.DDP.5.1.English-HONE
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The.Americas.2025.S01E04.2160p.PCOK.WEB-DL.Hybrid.H265.DV.HDR.DDP.5.1.English-HONE/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The.Americas.2025.S01E04.2160p.PCOK.WEB-DL.Hybrid.H265.DV.HDR.DDP.5.1.English-HONE/Trailers/Season_01_*.[ext]
+
+Show: And Just Like That...
+  Season 03 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/And Just Like That. (2021) {imdb-tt13819960}
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/And Just Like That. (2021) {imdb-tt13819960}/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/And Just Like That. (2021) {imdb-tt13819960}/Trailers/Season_03_*.[ext]
+
+Show: Andor
+  Season 01 (4 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Wars - Andor (2022) {imdb-tt9253284}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Wars - Andor (2022) {imdb-tt9253284}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Wars - Andor (2022) {imdb-tt9253284}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Andor
+  Season 02 (12 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Wars - Andor (2022) {imdb-tt9253284}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Wars - Andor (2022) {imdb-tt9253284}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Wars - Andor (2022) {imdb-tt9253284}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Andormohol
+  Season 01 (12 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Wars: Andor (2022) {imdb-tt9253284}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Wars: Andor (2022) {imdb-tt9253284}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Wars: Andor (2022) {imdb-tt9253284}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Andormohol
+  Season 02 (3 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Andor.S02E01.GERMAN.DL.1080P.WEB.H264-WAYNE
+  Expected trailer locations:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Andor.S02E01.GERMAN.DL.1080P.WEB.H264-WAYNE/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Andor.S02E01.GERMAN.DL.1080P.WEB.H264-WAYNE/Trailers/Season_02_*.[ext]
+
+Show: Animal Control
+  Season 02 (2 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Animal Control (2023) {imdb-tt21376524}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Animal Control (2023) {imdb-tt21376524}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Animal Control (2023) {imdb-tt21376524}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Animal Control
+  Season 03 (9 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Animal Control (2023) {imdb-tt21376524}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Animal Control (2023) {imdb-tt21376524}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Animal Control (2023) {imdb-tt21376524}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: The Apprentice
+  Season 01 (15 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Apprentice (US) (2004) {imdb-tt0364782}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Apprentice (US) (2004) {imdb-tt0364782}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Apprentice (US) (2004) {imdb-tt0364782}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: The Apprentice
+  Season 02 (14 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Apprentice (US) (2004) {imdb-tt0364782}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Apprentice (US) (2004) {imdb-tt0364782}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Apprentice (US) (2004) {imdb-tt0364782}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Art Attack
+  Season 05 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Art Attack (1990) {imdb-tt0313033}/Season 05
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Art Attack (1990) {imdb-tt0313033}/Season 05/Season_05_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Art Attack (1990) {imdb-tt0313033}/Season 05/Trailers/Season_05_*.[ext]
+
+Show: Art Attack
+  Season 06 (25 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Art Attack (1990) {imdb-tt0313033}/Season 12
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Art Attack (1990) {imdb-tt0313033}/Season 12/Season_06_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Art Attack (1990) {imdb-tt0313033}/Season 12/Trailers/Season_06_*.[ext]
+
+Show: Art Attack
+  Season 07 (26 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Art Attack (1990) {imdb-tt0313033}/Season 13
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Art Attack (1990) {imdb-tt0313033}/Season 13/Season_07_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Art Attack (1990) {imdb-tt0313033}/Season 13/Trailers/Season_07_*.[ext]
+
+Show: The Bear: King of the Kitchen
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Bear (2022) {imdb-tt14452776}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Bear (2022) {imdb-tt14452776}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Bear (2022) {imdb-tt14452776}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: The Bear: King of the Kitchen
+  Season 03 (5 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Bear (2022) {imdb-tt14452776}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Bear (2022) {imdb-tt14452776}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Bear (2022) {imdb-tt14452776}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: The Bear: King of the Kitchen
+  Season 04 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Bear (2022) {imdb-tt14452776}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Bear (2022) {imdb-tt14452776}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Bear (2022) {imdb-tt14452776}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: Bibi und Tina
+  Season 03 (13 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Bibi und Tina (2006) {imdb-tt0497289}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Bibi und Tina (2006) {imdb-tt0497289}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Bibi und Tina (2006) {imdb-tt0497289}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Blaze und die Monster-Maschinen
+  Season 01 (20 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Blaze und die Monster-Maschinen
+  Season 02 (20 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Blaze und die Monster-Maschinen
+  Season 03 (20 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Blaze und die Monster-Maschinen
+  Season 04 (20 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: Blaze und die Monster-Maschinen
+  Season 05 (19 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 05
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 05/Season_05_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 05/Trailers/Season_05_*.[ext]
+
+Show: Blaze und die Monster-Maschinen
+  Season 06 (24 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 06
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 06/Season_06_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 06/Trailers/Season_06_*.[ext]
+
+Show: Blaze und die Monster-Maschinen
+  Season 07 (25 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 07
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 07/Season_07_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 07/Trailers/Season_07_*.[ext]
+
+Show: Blaze und die Monster-Maschinen
+  Season 08 (12 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 08
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 08/Season_08_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 08/Trailers/Season_08_*.[ext]
+
+Show: Blaze und die Monster-Maschinen
+  Season 09 (5 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 09
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 09/Season_09_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Blaze and the Monster Machines (2014) {imdb-tt4458594}/Season 09/Trailers/Season_09_*.[ext]
+
+Show: Bluey
+  Season 01 (52 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Bluey (2018) {imdb-tt7678620}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Bluey (2018) {imdb-tt7678620}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Bluey (2018) {imdb-tt7678620}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Bluey
+  Season 02 (52 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Bluey (2018) {imdb-tt7678620}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Bluey (2018) {imdb-tt7678620}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Bluey (2018) {imdb-tt7678620}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Bluey
+  Season 03 (50 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Bluey (2018) {imdb-tt7678620}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Bluey (2018) {imdb-tt7678620}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Bluey (2018) {imdb-tt7678620}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Boardwalk Empire
+  Season 01 (12 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Boardwalk Empire (2010) {imdb-tt0979432}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Boardwalk Empire (2010) {imdb-tt0979432}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Boardwalk Empire (2010) {imdb-tt0979432}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Boat Story
+  Season 01 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Boat Story (2023) {imdb-tt23729238}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Boat Story (2023) {imdb-tt23729238}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Boat Story (2023) {imdb-tt23729238}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Bobo Siebenschläfer
+  Season 02 (26 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Bobo Siebenschläfer (2014) {imdb-tt8811416}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Bobo Siebenschläfer (2014) {imdb-tt8811416}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Bobo Siebenschläfer (2014) {imdb-tt8811416}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: The Bondsman - Kopfgeldjäger des Teufels
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Bondsman (2025) {imdb-tt28256288}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Bondsman (2025) {imdb-tt28256288}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Bondsman (2025) {imdb-tt28256288}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: The Boys
+  Season 04 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Boys (2019) {imdb-tt1190634}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Boys (2019) {imdb-tt1190634}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Boys (2019) {imdb-tt1190634}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: Cannibal Sharks
+  Season 02 (5 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Gannibal.S02E01.Betrayal.2160p.DSNP.WEB-DL.DDP5.1.DV.H.265-FLUX
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Gannibal.S02E01.Betrayal.2160p.DSNP.WEB-DL.DDP5.1.DV.H.265-FLUX/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Gannibal.S02E01.Betrayal.2160p.DSNP.WEB-DL.DDP5.1.DV.H.265-FLUX/Trailers/Season_02_*.[ext]
+
+Show: Chernobyl
+  Season 01 (2 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Chernobyl (2019) {imdb-tt7366338}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Chernobyl (2019) {imdb-tt7366338}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Chernobyl (2019) {imdb-tt7366338}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Chip und Chap - Die Ritter des Rechts
+  Season 01 (13 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Chip 'n' Dale Rescue Rangers (1989) {imdb-tt0096557}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Chip 'n' Dale Rescue Rangers (1989) {imdb-tt0096557}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Chip 'n' Dale Rescue Rangers (1989) {imdb-tt0096557}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Climate Change – the World's Most Dangerous Show
+  Season 01 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Joko Winterscheidt Presents: The World's Most Dangerous Show (2023) {imdb-tt22042154}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Joko Winterscheidt Presents: The World's Most Dangerous Show (2023) {imdb-tt22042154}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Joko Winterscheidt Presents: The World's Most Dangerous Show (2023) {imdb-tt22042154}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Code of Silence
+  Season 01 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Code of Silence (2025) {imdb-tt30249123}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Code of Silence (2025) {imdb-tt30249123}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Code of Silence (2025) {imdb-tt30249123}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: The Continental - Aus der Welt von John Wick
+  Season 01 (2 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Continental: From the World of John Wick (2023) {imdb-tt6486762}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Continental: From the World of John Wick (2023) {imdb-tt6486762}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Continental: From the World of John Wick (2023) {imdb-tt6486762}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Counterpart
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Counterpart (2017) {imdb-tt4643084}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Counterpart (2017) {imdb-tt4643084}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Counterpart (2017) {imdb-tt4643084}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Counterpart
+  Season 02 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Counterpart (2017) {imdb-tt4643084}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Counterpart (2017) {imdb-tt4643084}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Counterpart (2017) {imdb-tt4643084}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Creature Commandos
+  Season 01 (7 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Creature.Commandos.S01.1080p.WEB.H264-SuccessfulCrab/Creature.Commandos.S01E01.1080p.WEB.H264-SuccessfulCrab
+  Expected trailer locations:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Creature.Commandos.S01.1080p.WEB.H264-SuccessfulCrab/Creature.Commandos.S01E01.1080p.WEB.H264-SuccessfulCrab/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Creature.Commandos.S01.1080p.WEB.H264-SuccessfulCrab/Creature.Commandos.S01E01.1080p.WEB.H264-SuccessfulCrab/Trailers/Season_01_*.[ext]
+
+Show: Culprits
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Culprits (2023) {imdb-tt14531774}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Culprits (2023) {imdb-tt14531774}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Culprits (2023) {imdb-tt14531774}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Cunk & Other Humans on 2019
+  Season 01 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Cunk & Other Humans on 2019 (2019) {imdb-tt11522000}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Cunk & Other Humans on 2019 (2019) {imdb-tt11522000}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Cunk & Other Humans on 2019 (2019) {imdb-tt11522000}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: The Curse
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Curse (2023) {imdb-tt13623608}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Curse (2023) {imdb-tt13623608}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Curse (2023) {imdb-tt13623608}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Daredevil: Born Again
+  Season 01 (9 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Daredevil - Born Again (2025) {imdb-tt18923754}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Daredevil - Born Again (2025) {imdb-tt18923754}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Daredevil - Born Again (2025) {imdb-tt18923754}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Dark Matter – Der Zeitenläufer
+  Season 01 (13 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dark Matter (2024) {imdb-tt19231492}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dark Matter (2024) {imdb-tt19231492}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dark Matter (2024) {imdb-tt19231492}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Die Affäre Cum-Ex
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Other People's Money (2025) {imdb-tt23805252}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Other People's Money (2025) {imdb-tt23805252}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Other People's Money (2025) {imdb-tt23805252}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Die Biene Maja
+  Season 01 (52 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Maya the Bee (1975) {imdb-tt0133295}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Maya the Bee (1975) {imdb-tt0133295}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Maya the Bee (1975) {imdb-tt0133295}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Die Biene Maja
+  Season 02 (52 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Maya the Bee (1975) {imdb-tt0133295}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Maya the Bee (1975) {imdb-tt0133295}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Maya the Bee (1975) {imdb-tt0133295}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Die Chemie des Todes
+  Season 01 (5 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Chemistry of Death (2023) {imdb-tt22015782}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Chemistry of Death (2023) {imdb-tt22015782}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Chemistry of Death (2023) {imdb-tt22015782}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Die Dinos
+  Season 01 (5 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dinosaurs (1991) {imdb-tt0101081}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dinosaurs (1991) {imdb-tt0101081}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dinosaurs (1991) {imdb-tt0101081}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Die Dinos
+  Season 02 (24 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dinosaurs (1991) {imdb-tt0101081}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dinosaurs (1991) {imdb-tt0101081}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dinosaurs (1991) {imdb-tt0101081}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Die Dinos
+  Season 03 (22 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dinosaurs (1991) {imdb-tt0101081}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dinosaurs (1991) {imdb-tt0101081}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dinosaurs (1991) {imdb-tt0101081}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Die Dinos
+  Season 04 (14 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dinosaurs (1991) {imdb-tt0101081}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dinosaurs (1991) {imdb-tt0101081}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dinosaurs (1991) {imdb-tt0101081}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: Die Discounter
+  Season 04 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Discounters (2021) {imdb-tt16463942}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Discounters (2021) {imdb-tt16463942}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Discounters (2021) {imdb-tt16463942}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: Die Gummibärenbande
+  Season 01 (21 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Adventures of the Gummi Bears (1985) {imdb-tt0088528}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Adventures of the Gummi Bears (1985) {imdb-tt0088528}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Adventures of the Gummi Bears (1985) {imdb-tt0088528}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Die Sendung mit der Maus
+  Season 2024 (5 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Show with the Mouse (1971) {imdb-tt0065345}/Season 42
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Show with the Mouse (1971) {imdb-tt0065345}/Season 42/Season_2024_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Show with the Mouse (1971) {imdb-tt0065345}/Season 42/Trailers/Season_2024_*.[ext]
+
+Show: Die Sendung mit der Maus
+  Season 2025 (22 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Show with the Mouse (1971) {imdb-tt0065345}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Show with the Mouse (1971) {imdb-tt0065345}/Season 01/Season_2025_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Show with the Mouse (1971) {imdb-tt0065345}/Season 01/Trailers/Season_2025_*.[ext]
+
+Show: Die Sopranos
+  Season 01 (13 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Sopranos (1999) {imdb-tt0141842}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Sopranos (1999) {imdb-tt0141842}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Sopranos (1999) {imdb-tt0141842}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Dirk Gentlys Holistische Detektei
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dirk Gently's Holistic Detective Agency (2016) {imdb-tt4047038}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dirk Gently's Holistic Detective Agency (2016) {imdb-tt4047038}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dirk Gently's Holistic Detective Agency (2016) {imdb-tt4047038}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Dirk Gentlys Holistische Detektei
+  Season 02 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dirk Gently's Holistic Detective Agency (2016) {imdb-tt4047038}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dirk Gently's Holistic Detective Agency (2016) {imdb-tt4047038}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Dirk Gently's Holistic Detective Agency (2016) {imdb-tt4047038}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Dora
+  Season 01 (23 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/DORA (2024) {imdb-tt15387926}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/DORA (2024) {imdb-tt15387926}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/DORA (2024) {imdb-tt15387926}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Dora
+  Season 02 (26 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/DORA (2024) {imdb-tt15387926}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/DORA (2024) {imdb-tt15387926}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/DORA (2024) {imdb-tt15387926}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Dora
+  Season 03 (26 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/DORA (2024) {imdb-tt15387926}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/DORA (2024) {imdb-tt15387926}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/DORA (2024) {imdb-tt15387926}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Dune: Prophecy
+  Season 01 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Dune.Prophecy.S01.German.EAC3.DL.2160p.WEB.DV.HDR.h265-VECTOR
+  Expected trailer locations:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Dune.Prophecy.S01.German.EAC3.DL.2160p.WEB.DV.HDR.h265-VECTOR/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Dune.Prophecy.S01.German.EAC3.DL.2160p.WEB.DV.HDR.h265-VECTOR/Trailers/Season_01_*.[ext]
+
+Show: Ein Planet vor unserer Zeit
+  Season 01 (5 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Prehistoric Planet (2022) {imdb-tt10324164}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Prehistoric Planet (2022) {imdb-tt10324164}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Prehistoric Planet (2022) {imdb-tt10324164}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Ein Planet vor unserer Zeit
+  Season 02 (5 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Prehistoric Planet (2022) {imdb-tt10324164}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Prehistoric Planet (2022) {imdb-tt10324164}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Prehistoric Planet (2022) {imdb-tt10324164}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Eternauta
+  Season 01 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Eternaut (2025) {imdb-tt27740241}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Eternaut (2025) {imdb-tt27740241}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Eternaut (2025) {imdb-tt27740241}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Evil: Dem Bösen auf der Spur
+  Season 01 (13 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Evil (2019) {imdb-tt9055008}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Evil (2019) {imdb-tt9055008}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Evil (2019) {imdb-tt9055008}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Familie Feuerstein
+  Season 04 (1 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Flintstones (1960) {imdb-tt0053502}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Flintstones (1960) {imdb-tt0053502}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Flintstones (1960) {imdb-tt0053502}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: Familie Feuerstein
+  Season 06 (3 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Flintstones (1960) {imdb-tt0053502}/Season 06
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Flintstones (1960) {imdb-tt0053502}/Season 06/Season_06_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Flintstones (1960) {imdb-tt0053502}/Season 06/Trailers/Season_06_*.[ext]
+
+Show: Firefly - Der Aufbruch der Serenity
+  Season 01 (14 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Firefly (2002) {imdb-tt0303461}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Firefly (2002) {imdb-tt0303461}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Firefly (2002) {imdb-tt0303461}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: The Five
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Five (2016) {imdb-tt4370528}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Five (2016) {imdb-tt4370528}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Five (2016) {imdb-tt4370528}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Foundation
+  Season 03 (3 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Foundation (2021) {imdb-tt0804484}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Foundation (2021) {imdb-tt0804484}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Foundation (2021) {imdb-tt0804484}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: From
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/FROM (2022) {imdb-tt9813792}
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/FROM (2022) {imdb-tt9813792}/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/FROM (2022) {imdb-tt9813792}/Trailers/Season_01_*.[ext]
+
+Show: From
+  Season 03 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/FROM (2022) {imdb-tt9813792}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/FROM (2022) {imdb-tt9813792}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/FROM (2022) {imdb-tt9813792}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Game of Thrones
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Game of Thrones
+  Season 02 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Game of Thrones
+  Season 03 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Game of Thrones
+  Season 04 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: Game of Thrones
+  Season 05 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 05
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 05/Season_05_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 05/Trailers/Season_05_*.[ext]
+
+Show: Game of Thrones
+  Season 06 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 06
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 06/Season_06_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 06/Trailers/Season_06_*.[ext]
+
+Show: Game of Thrones
+  Season 07 (7 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 07
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 07/Season_07_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 07/Trailers/Season_07_*.[ext]
+
+Show: Game of Thrones
+  Season 08 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 08
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 08/Season_08_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Game of Thrones (2011) {imdb-tt0944947}/Season 08/Trailers/Season_08_*.[ext]
+
+Show: Das Geheimnis von Twin Peaks
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Twin Peaks (1990) {imdb-tt0098936}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Twin Peaks (1990) {imdb-tt0098936}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Twin Peaks (1990) {imdb-tt0098936}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Das Geheimnis von Twin Peaks
+  Season 02 (22 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Twin Peaks (1990) {imdb-tt0098936}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Twin Peaks (1990) {imdb-tt0098936}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Twin Peaks (1990) {imdb-tt0098936}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Good American Family
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Good American Family (2025) {imdb-tt21441010}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Good American Family (2025) {imdb-tt21441010}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Good American Family (2025) {imdb-tt21441010}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Grey's Anatomy: Die jungen Ärzte
+  Season 09 (24 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Greys.Anatomy.S09E01.Der.30.Tag.GERMAN.DUBBED.DL.1080p.WebHD.x264-TVP
+  Expected trailer locations:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Greys.Anatomy.S09E01.Der.30.Tag.GERMAN.DUBBED.DL.1080p.WebHD.x264-TVP/Season_09_*-trailer.[ext]
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Greys.Anatomy.S09E01.Der.30.Tag.GERMAN.DUBBED.DL.1080p.WebHD.x264-TVP/Trailers/Season_09_*.[ext]
+
+Show: Grey's Anatomy: Die jungen Ärzte
+  Season 10 (24 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Grey's Anatomy (2005) {imdb-tt0413573}/Season 10
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Grey's Anatomy (2005) {imdb-tt0413573}/Season 10/Season_10_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Grey's Anatomy (2005) {imdb-tt0413573}/Season 10/Trailers/Season_10_*.[ext]
+
+Show: Grey's Anatomy: Die jungen Ärzte
+  Season 11 (25 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Greys.Anatomy.S11E01.German.DL.1080p.WEB.h264-OHD
+  Expected trailer locations:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Greys.Anatomy.S11E01.German.DL.1080p.WEB.h264-OHD/Season_11_*-trailer.[ext]
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Greys.Anatomy.S11E01.German.DL.1080p.WEB.h264-OHD/Trailers/Season_11_*.[ext]
+
+Show: Grey's Anatomy: Die jungen Ärzte
+  Season 12 (24 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Greys.Anatomy.S12E01.German.DL.1080p.WEB.h264-OHD
+  Expected trailer locations:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Greys.Anatomy.S12E01.German.DL.1080p.WEB.h264-OHD/Season_12_*-trailer.[ext]
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Greys.Anatomy.S12E01.German.DL.1080p.WEB.h264-OHD/Trailers/Season_12_*.[ext]
+
+Show: Grey's Anatomy: Die jungen Ärzte
+  Season 19 (20 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Grey's Anatomy (2005) {imdb-tt0413573}/Season 19
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Grey's Anatomy (2005) {imdb-tt0413573}/Season 19/Season_19_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Grey's Anatomy (2005) {imdb-tt0413573}/Season 19/Trailers/Season_19_*.[ext]
+
+Show: Grey's Anatomy: Die jungen Ärzte
+  Season 20 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Grey's Anatomy (2005) {imdb-tt0413573}/Season 20
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Grey's Anatomy (2005) {imdb-tt0413573}/Season 20/Season_20_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Grey's Anatomy (2005) {imdb-tt0413573}/Season 20/Trailers/Season_20_*.[ext]
+
+Show: Grey's Anatomy: Die jungen Ärzte
+  Season 21 (18 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Grey's Anatomy (2005) {imdb-tt0413573}/Season 21
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Grey's Anatomy (2005) {imdb-tt0413573}/Season 21/Season_21_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Grey's Anatomy (2005) {imdb-tt0413573}/Season 21/Trailers/Season_21_*.[ext]
+
+Show: Halo
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Halo (2022) {imdb-tt2934286}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Halo (2022) {imdb-tt2934286}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Halo (2022) {imdb-tt2934286}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Hanna Svensson
+  Season 02 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Before We Die (2017) {imdb-tt5598192}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Before We Die (2017) {imdb-tt5598192}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Before We Die (2017) {imdb-tt5598192}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Hannibal
+  Season 01 (13 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Hannibal (2013) {imdb-tt2243973}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Hannibal (2013) {imdb-tt2243973}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Hannibal (2013) {imdb-tt2243973}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Hannibal
+  Season 02 (13 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Hannibal (2013) {imdb-tt2243973}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Hannibal (2013) {imdb-tt2243973}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Hannibal (2013) {imdb-tt2243973}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Hannibal
+  Season 03 (13 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Hannibal (2013) {imdb-tt2243973}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Hannibal (2013) {imdb-tt2243973}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Hannibal (2013) {imdb-tt2243973}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Hell on Wheels
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Hell on Wheels (2011) {imdb-tt1699748}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Hell on Wheels (2011) {imdb-tt1699748}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Hell on Wheels (2011) {imdb-tt1699748}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Der Herr der Ringe: Die Ringe der Macht
+  Season 01 (7 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Lord of the Rings: The Rings of Power (2022) {imdb-tt7631058}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Lord of the Rings: The Rings of Power (2022) {imdb-tt7631058}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Lord of the Rings: The Rings of Power (2022) {imdb-tt7631058}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Der Herr der Ringe: Die Ringe der Macht
+  Season 02 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Lord of the Rings: The Rings of Power (2022) {imdb-tt7631058}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Lord of the Rings: The Rings of Power (2022) {imdb-tt7631058}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Lord of the Rings: The Rings of Power (2022) {imdb-tt7631058}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Hightown
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Hightown (2020) {imdb-tt7718110}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Hightown (2020) {imdb-tt7718110}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Hightown (2020) {imdb-tt7718110}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: House of the Dragon
+  Season 02 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/House of the Dragon (2022) {imdb-tt11198330}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/House of the Dragon (2022) {imdb-tt11198330}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/House of the Dragon (2022) {imdb-tt11198330}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Humans
+  Season 01 (5 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Humans (2015) {imdb-tt4122068}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Humans (2015) {imdb-tt4122068}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Humans (2015) {imdb-tt4122068}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Humans
+  Season 02 (4 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Humans (2015) {imdb-tt4122068}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Humans (2015) {imdb-tt4122068}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Humans (2015) {imdb-tt4122068}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Humans
+  Season 03 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Humans (2015) {imdb-tt4122068}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Humans (2015) {imdb-tt4122068}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Humans (2015) {imdb-tt4122068}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Ironheart
+  Season 01 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Ironheart (2025) {imdb-tt13623126}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Ironheart (2025) {imdb-tt13623126}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Ironheart (2025) {imdb-tt13623126}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Jenseits der Spree
+  Season 01 (4 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Jenseits der Spree (2021) {imdb-tt15227846}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Jenseits der Spree (2021) {imdb-tt15227846}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Jenseits der Spree (2021) {imdb-tt15227846}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Jenseits der Spree
+  Season 02 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Jenseits.der.Spree.S02.German.1080p.AMZN.WEB.H264-Oergel
+  Expected trailer locations:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Jenseits.der.Spree.S02.German.1080p.AMZN.WEB.H264-Oergel/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Jenseits.der.Spree.S02.German.1080p.AMZN.WEB.H264-Oergel/Trailers/Season_02_*.[ext]
+
+Show: Jenseits der Spree
+  Season 03 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Jenseits der Spree (2021) {imdb-tt15227846}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Jenseits der Spree (2021) {imdb-tt15227846}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Jenseits der Spree (2021) {imdb-tt15227846}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Knight Rider
+  Season 01 (20 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Knight Rider (1982) {imdb-tt0083437}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Knight Rider (1982) {imdb-tt0083437}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Knight Rider (1982) {imdb-tt0083437}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Landman
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Landman (2024) {imdb-tt14186672}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Landman (2024) {imdb-tt14186672}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Landman (2024) {imdb-tt14186672}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: The Last of Us
+  Season 01 (7 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Last of Us (2023) {imdb-tt3581920}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Last of Us (2023) {imdb-tt3581920}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Last of Us (2023) {imdb-tt3581920}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: The Last of Us
+  Season 02 (7 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Last of Us (2023) {imdb-tt3581920}
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Last of Us (2023) {imdb-tt3581920}/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Last of Us (2023) {imdb-tt3581920}/Trailers/Season_02_*.[ext]
+
+Show: LEGO City Abenteuer
+  Season 01 (18 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/LEGO City Adventures (2019) {imdb-tt10332322}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/LEGO City Adventures (2019) {imdb-tt10332322}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/LEGO City Adventures (2019) {imdb-tt10332322}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Leverage
+  Season 01 (13 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Leverage (2008) {imdb-tt1103987}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Leverage (2008) {imdb-tt1103987}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Leverage (2008) {imdb-tt1103987}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Leverage
+  Season 02 (15 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Leverage (2008) {imdb-tt1103987}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Leverage (2008) {imdb-tt1103987}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Leverage (2008) {imdb-tt1103987}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Leverage
+  Season 03 (16 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Leverage (2008) {imdb-tt1103987}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Leverage (2008) {imdb-tt1103987}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Leverage (2008) {imdb-tt1103987}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Leverage
+  Season 04 (18 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Leverage (2008) {imdb-tt1103987}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Leverage (2008) {imdb-tt1103987}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Leverage (2008) {imdb-tt1103987}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: Leverage
+  Season 05 (15 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Leverage (2008) {imdb-tt1103987}/Season 05
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Leverage (2008) {imdb-tt1103987}/Season 05/Season_05_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Leverage (2008) {imdb-tt1103987}/Season 05/Trailers/Season_05_*.[ext]
+
+Show: Lioness
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Lioness (2023) {imdb-tt13111078}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Lioness (2023) {imdb-tt13111078}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Lioness (2023) {imdb-tt13111078}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Lioness
+  Season 02 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Lioness (2023) {imdb-tt13111078}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Lioness (2023) {imdb-tt13111078}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Lioness (2023) {imdb-tt13111078}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: LOL: Last One Laughing
+  Season 05 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/LOL.Last.One.Laughing.Germany.2021.S05.GERMAN.1080p.WEB.H264-TSCC/LOL.Last.One.Laughing.Germany.2021.S05E01.GERMAN.1080p.WEB.H264-TSCC
+  Expected trailer locations:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/LOL.Last.One.Laughing.Germany.2021.S05.GERMAN.1080p.WEB.H264-TSCC/LOL.Last.One.Laughing.Germany.2021.S05E01.GERMAN.1080p.WEB.H264-TSCC/Season_05_*-trailer.[ext]
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/LOL.Last.One.Laughing.Germany.2021.S05.GERMAN.1080p.WEB.H264-TSCC/LOL.Last.One.Laughing.Germany.2021.S05E01.GERMAN.1080p.WEB.H264-TSCC/Trailers/Season_05_*.[ext]
+
+Show: LOL: Last One Laughing
+  Season 06 (4 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/LOL - Last one Laughing Germany (2021) {imdb-tt13929916}/Season 06
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/LOL - Last one Laughing Germany (2021) {imdb-tt13929916}/Season 06/Season_06_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/LOL - Last one Laughing Germany (2021) {imdb-tt13929916}/Season 06/Trailers/Season_06_*.[ext]
+
+Show: LOL: Last One Laughing Mexico
+  Season 06 (2 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/LOL.Last.One.Laughing.S06E03.GERMAN.1080p.WEB.h264-HAXE
+  Expected trailer locations:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/LOL.Last.One.Laughing.S06E03.GERMAN.1080p.WEB.h264-HAXE/Season_06_*-trailer.[ext]
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/LOL.Last.One.Laughing.S06E03.GERMAN.1080p.WEB.h264-HAXE/Trailers/Season_06_*.[ext]
+
+Show: Love, Death & Robots
+  Season 02 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Love, Death & Robots (2019) {imdb-tt9561862}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Love, Death & Robots (2019) {imdb-tt9561862}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Love, Death & Robots (2019) {imdb-tt9561862}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Love, Death & Robots
+  Season 04 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Love, Death & Robots (2019) {imdb-tt9561862}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Love, Death & Robots (2019) {imdb-tt9561862}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Love, Death & Robots (2019) {imdb-tt9561862}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: Masters of the Air
+  Season 01 (4 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Masters of the Air (2024) {imdb-tt2640044}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Masters of the Air (2024) {imdb-tt2640044}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Masters of the Air (2024) {imdb-tt2640044}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Mayor of Kingstown
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Mayor of Kingstown (2021) {imdb-tt11712058}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Mayor of Kingstown (2021) {imdb-tt11712058}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Mayor of Kingstown (2021) {imdb-tt11712058}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: McLeods Töchter
+  Season 06 (32 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/McLeod's Daughters (2001) {imdb-tt0292414}/Season 06
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/McLeod's Daughters (2001) {imdb-tt0292414}/Season 06/Season_06_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/McLeod's Daughters (2001) {imdb-tt0292414}/Season 06/Trailers/Season_06_*.[ext]
+
+Show: McLeods Töchter
+  Season 07 (32 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/McLeod's Daughters (2001) {imdb-tt0292414}/Season 07
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/McLeod's Daughters (2001) {imdb-tt0292414}/Season 07/Season_07_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/McLeod's Daughters (2001) {imdb-tt0292414}/Season 07/Trailers/Season_07_*.[ext]
+
+Show: McLeods Töchter
+  Season 08 (22 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/McLeod's Daughters (2001) {imdb-tt0292414}/Season 08
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/McLeod's Daughters (2001) {imdb-tt0292414}/Season 08/Season_08_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/McLeod's Daughters (2001) {imdb-tt0292414}/Season 08/Trailers/Season_08_*.[ext]
+
+Show: Micky Maus Wunderhaus
+  Season 01 (26 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Mickey Mouse Clubhouse (2006) {imdb-tt0784896}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Mickey Mouse Clubhouse (2006) {imdb-tt0784896}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Mickey Mouse Clubhouse (2006) {imdb-tt0784896}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Micky und die flinken Flitzer
+  Season 01 (26 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Mickey and the Roadster Racers (2017) {imdb-tt6264782}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Mickey and the Roadster Racers (2017) {imdb-tt6264782}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Mickey and the Roadster Racers (2017) {imdb-tt6264782}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: MobLand
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/MobLand.2025.S01.German.DL.2160p.DV.HDR.WEB.H265-iSSEYMiYAKE/MobLand.2025.S01E01.German.DL.2160p.DV.HDR.WEB.H265-iSSEYMiYAKE
+  Expected trailer locations:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/MobLand.2025.S01.German.DL.2160p.DV.HDR.WEB.H265-iSSEYMiYAKE/MobLand.2025.S01E01.German.DL.2160p.DV.HDR.WEB.H265-iSSEYMiYAKE/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/MobLand.2025.S01.German.DL.2160p.DV.HDR.WEB.H265-iSSEYMiYAKE/MobLand.2025.S01E01.German.DL.2160p.DV.HDR.WEB.H265-iSSEYMiYAKE/Trailers/Season_01_*.[ext]
+
+Show: Motherland: Fort Salem
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Motherland - Fort Salem (2020) {imdb-tt9900092}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Motherland - Fort Salem (2020) {imdb-tt9900092}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Motherland - Fort Salem (2020) {imdb-tt9900092}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Murderbot
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Murderbot (2025) {imdb-tt30444310}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Murderbot (2025) {imdb-tt30444310}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Murderbot (2025) {imdb-tt30444310}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Nach dem Attentat
+  Season 01 (7 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Manhunt (2024) {imdb-tt16912512}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Manhunt (2024) {imdb-tt16912512}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Manhunt (2024) {imdb-tt16912512}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Nautilus
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Nautilus (2024) {imdb-tt15286302}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Nautilus (2024) {imdb-tt15286302}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Nautilus (2024) {imdb-tt15286302}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Noch nicht ganz tot
+  Season 01 (1 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Not Dead Yet (2023) {imdb-tt18250904}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Not Dead Yet (2023) {imdb-tt18250904}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Not Dead Yet (2023) {imdb-tt18250904}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Numb3rs - Die Logik des Verbrechens
+  Season 01 (13 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Numb3rs (2005) {imdb-tt0433309}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Numb3rs (2005) {imdb-tt0433309}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Numb3rs (2005) {imdb-tt0433309}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Numb3rs - Die Logik des Verbrechens
+  Season 02 (24 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Numb3rs (2005) {imdb-tt0433309}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Numb3rs (2005) {imdb-tt0433309}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Numb3rs (2005) {imdb-tt0433309}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Numb3rs - Die Logik des Verbrechens
+  Season 03 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Numb3rs (2005) {imdb-tt0433309}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Numb3rs (2005) {imdb-tt0433309}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Numb3rs (2005) {imdb-tt0433309}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Numb3rs - Die Logik des Verbrechens
+  Season 05 (7 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Numb3rs (2005) {imdb-tt0433309}/Season 05
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Numb3rs (2005) {imdb-tt0433309}/Season 05/Season_05_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Numb3rs (2005) {imdb-tt0433309}/Season 05/Trailers/Season_05_*.[ext]
+
+Show: Numb3rs - Die Logik des Verbrechens
+  Season 06 (14 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Numb3rs (2005) {imdb-tt0433309}/Season 06
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Numb3rs (2005) {imdb-tt0433309}/Season 06/Season_06_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Numb3rs (2005) {imdb-tt0433309}/Season 06/Trailers/Season_06_*.[ext]
+
+Show: The Office
+  Season 01 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Office (2001) {imdb-tt0290978}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Office (2001) {imdb-tt0290978}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Office (2001) {imdb-tt0290978}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Olympic Highlights with Kevin Hart & Snoop Dogg
+  Season 01 (9 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Olympic Highlights with Kevin Hart and Snoop Dogg (2021) {imdb-tt14694580}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Olympic Highlights with Kevin Hart and Snoop Dogg (2021) {imdb-tt14694580}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Olympic Highlights with Kevin Hart and Snoop Dogg (2021) {imdb-tt14694580}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: One Piece
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/ONE PIECE (2023) {imdb-tt11737520}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/ONE PIECE (2023) {imdb-tt11737520}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/ONE PIECE (2023) {imdb-tt11737520}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Only Murders in the Building
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Only Murders in the Building (2021) {imdb-tt11691774}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Only Murders in the Building (2021) {imdb-tt11691774}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Only Murders in the Building (2021) {imdb-tt11691774}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Only Murders in the Building
+  Season 02 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Only Murders in the Building (2021) {imdb-tt11691774}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Only Murders in the Building (2021) {imdb-tt11691774}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Only Murders in the Building (2021) {imdb-tt11691774}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Only Murders in the Building
+  Season 03 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Only Murders in the Building (2021) {imdb-tt11691774}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Only Murders in the Building (2021) {imdb-tt11691774}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Only Murders in the Building (2021) {imdb-tt11691774}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Only Murders in the Building
+  Season 04 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Only Murders in the Building (2021) {imdb-tt11691774}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Only Murders in the Building (2021) {imdb-tt11691774}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Only Murders in the Building (2021) {imdb-tt11691774}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: Outlander
+  Season 01 (1 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Outlander (2014) {imdb-tt3006802}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Outlander (2014) {imdb-tt3006802}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Outlander (2014) {imdb-tt3006802}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Outlander
+  Season 07 (16 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Outlander (2014) {imdb-tt3006802}/Season 07
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Outlander (2014) {imdb-tt3006802}/Season 07/Season_07_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Outlander (2014) {imdb-tt3006802}/Season 07/Trailers/Season_07_*.[ext]
+
+Show: The Outsider
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Outsider (2020) {imdb-tt8550800}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Outsider (2020) {imdb-tt8550800}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Outsider (2020) {imdb-tt8550800}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Paradise
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Paradise (2025) {imdb-tt27444205}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Paradise (2025) {imdb-tt27444205}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Paradise (2025) {imdb-tt27444205}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Pauline
+  Season 01 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Pauline (2024) {imdb-tt27433128}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Pauline (2024) {imdb-tt27433128}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Pauline (2024) {imdb-tt27433128}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Paw Patrol: Helfer auf vier Pfoten
+  Season 01 (39 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Paw Patrol (2013) {imdb-tt3121722}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Paw Patrol (2013) {imdb-tt3121722}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Paw Patrol (2013) {imdb-tt3121722}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Paw Patrol: Helfer auf vier Pfoten
+  Season 02 (26 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/PAW Patrol (2013) {imdb-tt3121722}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/PAW Patrol (2013) {imdb-tt3121722}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/PAW Patrol (2013) {imdb-tt3121722}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Paw Patrol: Helfer auf vier Pfoten
+  Season 03 (26 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/PAW Patrol (2013) {imdb-tt3121722}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/PAW Patrol (2013) {imdb-tt3121722}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/PAW Patrol (2013) {imdb-tt3121722}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Paw Patrol: Helfer auf vier Pfoten
+  Season 04 (26 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/PAW Patrol (2013) {imdb-tt3121722}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/PAW Patrol (2013) {imdb-tt3121722}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/PAW Patrol (2013) {imdb-tt3121722}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: Paw Patrol: Helfer auf vier Pfoten
+  Season 05 (26 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/PAW Patrol (2013) {imdb-tt3121722}/Season 05
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/PAW Patrol (2013) {imdb-tt3121722}/Season 05/Season_05_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/PAW Patrol (2013) {imdb-tt3121722}/Season 05/Trailers/Season_05_*.[ext]
+
+Show: Paw Patrol: Helfer auf vier Pfoten
+  Season 08 (26 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/PAW Patrol (2013) {imdb-tt3121722}/Season 08
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/PAW Patrol (2013) {imdb-tt3121722}/Season 08/Season_08_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/PAW Patrol (2013) {imdb-tt3121722}/Season 08/Trailers/Season_08_*.[ext]
+
+Show: Paw Patrol: Helfer auf vier Pfoten
+  Season 10 (18 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Paw Patrol (2013) {imdb-tt3121722}/Season 10
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Paw Patrol (2013) {imdb-tt3121722}/Season 10/Season_10_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Paw Patrol (2013) {imdb-tt3121722}/Season 10/Trailers/Season_10_*.[ext]
+
+Show: Paw Patrol: Helfer auf vier Pfoten
+  Season 11 (27 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/PAW Patrol (2013) {imdb-tt3121722}/Season 11
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/PAW Patrol (2013) {imdb-tt3121722}/Season 11/Season_11_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/PAW Patrol (2013) {imdb-tt3121722}/Season 11/Trailers/Season_11_*.[ext]
+
+Show: The Penguin
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Penguin (2024) {imdb-tt15435876}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Penguin (2024) {imdb-tt15435876}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Penguin (2024) {imdb-tt15435876}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Penny Dreadful
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Penny Dreadful (2014) {imdb-tt2628232}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Penny Dreadful (2014) {imdb-tt2628232}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Penny Dreadful (2014) {imdb-tt2628232}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Penny Dreadful
+  Season 02 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Penny Dreadful (2014) {imdb-tt2628232}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Penny Dreadful (2014) {imdb-tt2628232}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Penny Dreadful (2014) {imdb-tt2628232}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Penny Dreadful
+  Season 03 (9 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Penny Dreadful (2014) {imdb-tt2628232}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Penny Dreadful (2014) {imdb-tt2628232}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Penny Dreadful (2014) {imdb-tt2628232}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Peppa Wutz
+  Season 00 (1 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Specials
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Specials/Season_00_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Specials/Trailers/Season_00_*.[ext]
+
+Show: Peppa Wutz
+  Season 01 (14 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Peppa Wutz
+  Season 02 (51 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Peppa Wutz
+  Season 03 (52 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Peppa Wutz
+  Season 04 (52 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: Peppa Wutz
+  Season 05 (52 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 05
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 05/Season_05_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 05/Trailers/Season_05_*.[ext]
+
+Show: Peppa Wutz
+  Season 06 (52 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 06
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 06/Season_06_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 06/Trailers/Season_06_*.[ext]
+
+Show: Peppa Wutz
+  Season 07 (65 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 07
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 07/Season_07_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 07/Trailers/Season_07_*.[ext]
+
+Show: Peppa Wutz
+  Season 08 (42 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 08
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 08/Season_08_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Peppa Pig (2004) {imdb-tt0426769}/Season 08/Trailers/Season_08_*.[ext]
+
+Show: The Pitt
+  Season 01 (15 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Pitt (2025) {imdb-tt31938062}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Pitt (2025) {imdb-tt31938062}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Pitt (2025) {imdb-tt31938062}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Preppers - Bereit für den Weltuntergang
+  Season 01 (12 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Doomsday Preppers (2012) {imdb-tt2069270}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Doomsday Preppers (2012) {imdb-tt2069270}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Doomsday Preppers (2012) {imdb-tt2069270}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Protection
+  Season 01 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Protection (2025) {imdb-tt28698590}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Protection (2025) {imdb-tt28698590}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Protection (2025) {imdb-tt28698590}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Quiet on Set: The Dark Side of Kids TV
+  Season 01 (5 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Quiet on Set: The Dark Side of Kids TV (2024) {imdb-tt31193442}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Quiet on Set: The Dark Side of Kids TV (2024) {imdb-tt31193442}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Quiet on Set: The Dark Side of Kids TV (2024) {imdb-tt31193442}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Raised by Wolves
+  Season 02 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Raised by Wolves (2020) {imdb-tt9170108}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Raised by Wolves (2020) {imdb-tt9170108}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Raised by Wolves (2020) {imdb-tt9170108}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Reacher
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Reacher (2022) {imdb-tt9288030}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Reacher (2022) {imdb-tt9288030}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Reacher (2022) {imdb-tt9288030}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Reacher
+  Season 02 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Reacher (2022) {imdb-tt9288030}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Reacher (2022) {imdb-tt9288030}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Reacher (2022) {imdb-tt9288030}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Reacher
+  Season 03 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Reacher (2022) {imdb-tt9288030}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Reacher (2022) {imdb-tt9288030}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Reacher (2022) {imdb-tt9288030}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: The Real Housewives of Orange County
+  Season 18 (20 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Real Housewives of Orange County (2006) {imdb-tt0497079}/Season 18
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Real Housewives of Orange County (2006) {imdb-tt0497079}/Season 18/Season_18_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Real Housewives of Orange County (2006) {imdb-tt0497079}/Season 18/Trailers/Season_18_*.[ext]
+
+Show: The Real Housewives of Orange County
+  Season 19 (2 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Real Housewives of Orange County (2006) {imdb-tt0497079}/Season 19
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Real Housewives of Orange County (2006) {imdb-tt0497079}/Season 19/Season_19_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Real Housewives of Orange County (2006) {imdb-tt0497079}/Season 19/Trailers/Season_19_*.[ext]
+
+Show: Resident Alien
+  Season 04 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Resident Alien (2021) {imdb-tt8690918}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Resident Alien (2021) {imdb-tt8690918}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Resident Alien (2021) {imdb-tt8690918}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: Rick and Morty
+  Season 05 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Rick and Morty (2013) {imdb-tt2861424}/Season 05
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Rick and Morty (2013) {imdb-tt2861424}/Season 05/Season_05_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Rick and Morty (2013) {imdb-tt2861424}/Season 05/Trailers/Season_05_*.[ext]
+
+Show: Rick and Morty
+  Season 08 (9 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Rick and Morty (2013) {imdb-tt2861424}/Season 08
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Rick and Morty (2013) {imdb-tt2861424}/Season 08/Season_08_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Rick and Morty (2013) {imdb-tt2861424}/Season 08/Trailers/Season_08_*.[ext]
+
+Show: The Rookie
+  Season 01 (20 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: The Rookie
+  Season 02 (20 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: The Rookie
+  Season 03 (14 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: The Rookie
+  Season 04 (22 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: The Rookie
+  Season 05 (22 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 05
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 05/Season_05_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 05/Trailers/Season_05_*.[ext]
+
+Show: The Rookie
+  Season 06 (5 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 06
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 06/Season_06_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 06/Trailers/Season_06_*.[ext]
+
+Show: The Rookie
+  Season 07 (18 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 07
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 07/Season_07_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Rookie (2018) {imdb-tt7587890}/Season 07/Trailers/Season_07_*.[ext]
+
+Show: Rubble & Crew
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Rubble & Crew (2023) {imdb-tt23858980}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Rubble & Crew (2023) {imdb-tt23858980}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Rubble & Crew (2023) {imdb-tt23858980}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Rubble & Crew
+  Season 02 (21 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Rubble & Crew (2023) {imdb-tt23858980}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Rubble & Crew (2023) {imdb-tt23858980}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Rubble & Crew (2023) {imdb-tt23858980}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Saint X
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Saint X (2023) {imdb-tt17372734}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Saint X (2023) {imdb-tt17372734}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Saint X (2023) {imdb-tt17372734}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Scooby Doo, wo bist du?
+  Season 01 (17 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Scooby-Doo, Where Are You! (1969) {imdb-tt0063950}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Scooby-Doo, Where Are You! (1969) {imdb-tt0063950}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Scooby-Doo, Where Are You! (1969) {imdb-tt0063950}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: See - Reich der Blinden
+  Season 03 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/See (2019) {imdb-tt7949218}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/See (2019) {imdb-tt7949218}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/See (2019) {imdb-tt7949218}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Severance
+  Season 01 (9 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Severance (2022) {imdb-tt11280740}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Severance (2022) {imdb-tt11280740}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Severance (2022) {imdb-tt11280740}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Severance
+  Season 02 (9 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Severance (2022) {imdb-tt11280740}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Severance (2022) {imdb-tt11280740}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Severance (2022) {imdb-tt11280740}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Sherlock
+  Season 01 (3 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Sherlock (2010) {imdb-tt1475582}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Sherlock (2010) {imdb-tt1475582}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Sherlock (2010) {imdb-tt1475582}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Sherlock
+  Season 03 (3 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Sherlock (2010) {imdb-tt1475582}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Sherlock (2010) {imdb-tt1475582}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Sherlock (2010) {imdb-tt1475582}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Shining Girls
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Shining Girls (2022) {imdb-tt2953250}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Shining Girls (2022) {imdb-tt2953250}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Shining Girls (2022) {imdb-tt2953250}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Silicon Valley
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Silicon Valley (2014) {imdb-tt2575988}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Silicon Valley (2014) {imdb-tt2575988}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Silicon Valley (2014) {imdb-tt2575988}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Silo
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Silo (2023) {imdb-tt14688458}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Silo (2023) {imdb-tt14688458}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Silo (2023) {imdb-tt14688458}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Silo
+  Season 02 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Silo (2023) {imdb-tt14688458}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Silo (2023) {imdb-tt14688458}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Silo (2023) {imdb-tt14688458}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Sisi
+  Season 03 (5 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Sisi (2021) {imdb-tt11269100}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Sisi (2021) {imdb-tt11269100}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Sisi (2021) {imdb-tt11269100}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Sisi
+  Season 04 (4 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Sisi (2021) {imdb-tt11269100}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Sisi (2021) {imdb-tt11269100}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Sisi (2021) {imdb-tt11269100}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: Snowpiercer
+  Season 04 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Snowpiercer (2020) {imdb-tt6156584}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Snowpiercer (2020) {imdb-tt6156584}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Snowpiercer (2020) {imdb-tt6156584}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: Solar Opposites
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Solar Opposites (2020) {imdb-tt8910922}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Solar Opposites (2020) {imdb-tt8910922}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Solar Opposites (2020) {imdb-tt8910922}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Solar Opposites
+  Season 02 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Solar Opposites (2020) {imdb-tt8910922}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Solar Opposites (2020) {imdb-tt8910922}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Solar Opposites (2020) {imdb-tt8910922}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Solar Opposites
+  Season 03 (11 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Solar Opposites (2020) {imdb-tt8910922}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Solar Opposites (2020) {imdb-tt8910922}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Solar Opposites (2020) {imdb-tt8910922}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Solar Opposites
+  Season 04 (11 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Solar Opposites (2020) {imdb-tt8910922}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Solar Opposites (2020) {imdb-tt8910922}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Solar Opposites (2020) {imdb-tt8910922}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: Solar Opposites
+  Season 05 (11 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Solar Opposites (2020) {imdb-tt8910922}/Season 05
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Solar Opposites (2020) {imdb-tt8910922}/Season 05/Season_05_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Solar Opposites (2020) {imdb-tt8910922}/Season 05/Trailers/Season_05_*.[ext]
+
+Show: South Park
+  Season 24 (2 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/South Park (1997) {imdb-tt0121955}
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/South Park (1997) {imdb-tt0121955}/Season_24_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/South Park (1997) {imdb-tt0121955}/Trailers/Season_24_*.[ext]
+
+Show: South Park
+  Season 25 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/South Park (1997) {imdb-tt0121955}
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/South Park (1997) {imdb-tt0121955}/Season_25_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/South Park (1997) {imdb-tt0121955}/Trailers/Season_25_*.[ext]
+
+Show: South Park
+  Season 26 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/South Park (1997) {imdb-tt0121955}/Season 26
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/South Park (1997) {imdb-tt0121955}/Season 26/Season_26_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/South Park (1997) {imdb-tt0121955}/Season 26/Trailers/Season_26_*.[ext]
+
+Show: South Park
+  Season 27 (1 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/South Park (1997) {imdb-tt0121955}
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/South Park (1997) {imdb-tt0121955}/Season_27_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/South Park (1997) {imdb-tt0121955}/Trailers/Season_27_*.[ext]
+
+Show: Spidey und seine Super Freunde
+  Season 01 (50 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Spidey and His Amazing Friends (2021) {imdb-tt10862280}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Spidey and His Amazing Friends (2021) {imdb-tt10862280}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Spidey and His Amazing Friends (2021) {imdb-tt10862280}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Spidey und seine Super Freunde
+  Season 02 (29 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Spidey.und.seine.Super.Freunde.S02.GERMAN.DL.1080p.WEB.h264-SCHOKOBONS/Spidey.und.seine.Super.Freunde.S02E01.GERMAN.DL.1080p.WEB.h264-SCHOKOBONS
+  Expected trailer locations:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Spidey.und.seine.Super.Freunde.S02.GERMAN.DL.1080p.WEB.h264-SCHOKOBONS/Spidey.und.seine.Super.Freunde.S02E01.GERMAN.DL.1080p.WEB.h264-SCHOKOBONS/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Spidey.und.seine.Super.Freunde.S02.GERMAN.DL.1080p.WEB.h264-SCHOKOBONS/Spidey.und.seine.Super.Freunde.S02E01.GERMAN.DL.1080p.WEB.h264-SCHOKOBONS/Trailers/Season_02_*.[ext]
+
+Show: Spidey und seine Super Freunde
+  Season 03 (48 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Spidey and His Amazing Friends (2021) {imdb-tt10862280}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Spidey and His Amazing Friends (2021) {imdb-tt10862280}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Spidey and His Amazing Friends (2021) {imdb-tt10862280}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Spidey und seine Super Freunde
+  Season 04 (12 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Spidey and His Amazing Friends (2021) {imdb-tt10862280}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Spidey and His Amazing Friends (2021) {imdb-tt10862280}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Spidey and His Amazing Friends (2021) {imdb-tt10862280}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: SpongeBob Schwammkopf
+  Season 01 (21 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/SpongeBob SquarePants (1999) {imdb-tt0206512}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/SpongeBob SquarePants (1999) {imdb-tt0206512}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/SpongeBob SquarePants (1999) {imdb-tt0206512}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: SpongeBob Schwammkopf
+  Season 04 (13 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/SpongeBob SquarePants (1999) {imdb-tt0206512}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/SpongeBob SquarePants (1999) {imdb-tt0206512}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/SpongeBob SquarePants (1999) {imdb-tt0206512}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: SpongeBob Schwammkopf
+  Season 05 (2 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/SpongeBob SquarePants (1999) {imdb-tt0206512}/Season 05
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/SpongeBob SquarePants (1999) {imdb-tt0206512}/Season 05/Season_05_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/SpongeBob SquarePants (1999) {imdb-tt0206512}/Season 05/Trailers/Season_05_*.[ext]
+
+Show: SpongeBob Schwammkopf
+  Season 15 (20 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/SpongeBob SquarePants (1999) {imdb-tt0206512}/Season 15
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/SpongeBob SquarePants (1999) {imdb-tt0206512}/Season 15/Season_15_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/SpongeBob SquarePants (1999) {imdb-tt0206512}/Season 15/Trailers/Season_15_*.[ext]
+
+Show: SpongeBob Schwammkopf
+  Season 16 (1 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/SpongeBob SquarePants (1999) {imdb-tt0206512}/Season 16
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/SpongeBob SquarePants (1999) {imdb-tt0206512}/Season 16/Season_16_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/SpongeBob SquarePants (1999) {imdb-tt0206512}/Season 16/Trailers/Season_16_*.[ext]
+
+Show: Star Trek: Discovery
+  Season 05 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek: Discovery (2017) {imdb-tt5171438}/Season 05
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek: Discovery (2017) {imdb-tt5171438}/Season 05/Season_05_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek: Discovery (2017) {imdb-tt5171438}/Season 05/Trailers/Season_05_*.[ext]
+
+Show: Star Trek: Lower Decks
+  Season 02 (9 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek - Lower Decks (2020) {imdb-tt9184820}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek - Lower Decks (2020) {imdb-tt9184820}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek - Lower Decks (2020) {imdb-tt9184820}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Star Trek: Lower Decks
+  Season 03 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek: Lower Decks (2020) {imdb-tt9184820}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek: Lower Decks (2020) {imdb-tt9184820}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek: Lower Decks (2020) {imdb-tt9184820}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Star Trek: Lower Decks
+  Season 04 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek - Lower Decks (2020) {imdb-tt9184820}/Season 04
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek - Lower Decks (2020) {imdb-tt9184820}/Season 04/Season_04_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek - Lower Decks (2020) {imdb-tt9184820}/Season 04/Trailers/Season_04_*.[ext]
+
+Show: Star Trek: Lower Decks
+  Season 05 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek - Lower Decks (2020) {imdb-tt9184820}/Season 05
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek - Lower Decks (2020) {imdb-tt9184820}/Season 05/Season_05_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek - Lower Decks (2020) {imdb-tt9184820}/Season 05/Trailers/Season_05_*.[ext]
+
+Show: Star Trek: Prodigy
+  Season 01 (20 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek: Prodigy (2021) {imdb-tt9795876}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek: Prodigy (2021) {imdb-tt9795876}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek: Prodigy (2021) {imdb-tt9795876}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Star Trek: Prodigy
+  Season 02 (20 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek: Prodigy (2021) {imdb-tt9795876}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek: Prodigy (2021) {imdb-tt9795876}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek: Prodigy (2021) {imdb-tt9795876}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Star Trek: Strange New Worlds
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek: Strange New Worlds (2022) {imdb-tt12327578}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek: Strange New Worlds (2022) {imdb-tt12327578}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek: Strange New Worlds (2022) {imdb-tt12327578}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Star Trek: Strange New Worlds
+  Season 02 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek: Strange New Worlds (2022) {imdb-tt12327578}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek: Strange New Worlds (2022) {imdb-tt12327578}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek: Strange New Worlds (2022) {imdb-tt12327578}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Star Trek: Strange New Worlds
+  Season 03 (1 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek - Strange New Worlds (2022) {imdb-tt12327578}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek - Strange New Worlds (2022) {imdb-tt12327578}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Trek - Strange New Worlds (2022) {imdb-tt12327578}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Star Wars: Geschichten der Unterwelt
+  Season 01 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Wars - Tales of the Underworld (2025) {imdb-tt36414431}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Wars - Tales of the Underworld (2025) {imdb-tt36414431}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Star Wars - Tales of the Underworld (2025) {imdb-tt36414431}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Station Eleven
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Station Eleven (2021) {imdb-tt10574236}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Station Eleven (2021) {imdb-tt10574236}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Station Eleven (2021) {imdb-tt10574236}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Stern Crime: Der Alptraummann
+  Season 01 (4 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Stern.Crime.Der.Alptraummann.S01E01.GERMAN.DOKU.1080p.WEB.x264-TSCC
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Stern.Crime.Der.Alptraummann.S01E01.GERMAN.DOKU.1080p.WEB.x264-TSCC/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Stern.Crime.Der.Alptraummann.S01E01.GERMAN.DOKU.1080p.WEB.x264-TSCC/Trailers/Season_01_*.[ext]
+
+Show: Stick
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Stick.S01.GERMAN.DL.2160p.WEB.h265-SAUERKRAUT/Stick.S01E01.GERMAN.DL.2160p.WEB.h265-SAUERKRAUT
+  Expected trailer locations:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Stick.S01.GERMAN.DL.2160p.WEB.h265-SAUERKRAUT/Stick.S01E01.GERMAN.DL.2160p.WEB.h265-SAUERKRAUT/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Stick.S01.GERMAN.DL.2160p.WEB.h265-SAUERKRAUT/Stick.S01E01.GERMAN.DL.2160p.WEB.h265-SAUERKRAUT/Trailers/Season_01_*.[ext]
+
+Show: The Studio
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/The.Studio.2025.S01.German.DL.AC3.2160p.DV.HDR.ATVP.WEB.H265-ZeroTwo/The.Studio.2025.S01E01.German.DL.AC3.2160p.DV.HDR.ATVP.WEB.H265-ZeroTwo
+  Expected trailer locations:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/The.Studio.2025.S01.German.DL.AC3.2160p.DV.HDR.ATVP.WEB.H265-ZeroTwo/The.Studio.2025.S01E01.German.DL.AC3.2160p.DV.HDR.ATVP.WEB.H265-ZeroTwo/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/The.Studio.2025.S01.German.DL.AC3.2160p.DV.HDR.ATVP.WEB.H265-ZeroTwo/The.Studio.2025.S01E01.German.DL.AC3.2160p.DV.HDR.ATVP.WEB.H265-ZeroTwo/Trailers/Season_01_*.[ext]
+
+Show: Taken: Die Zeit ist dein Feind
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Taken (2017) {imdb-tt5052460}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Taken (2017) {imdb-tt5052460}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Taken (2017) {imdb-tt5052460}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Taken: Die Zeit ist dein Feind
+  Season 02 (16 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Taken (2017) {imdb-tt5052460}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Taken (2017) {imdb-tt5052460}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Taken (2017) {imdb-tt5052460}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Tatort
+  Season 55 (13 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Scene of the Crime (1970) {imdb-tt0806910}/Season 55
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Scene of the Crime (1970) {imdb-tt0806910}/Season 55/Season_55_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Scene of the Crime (1970) {imdb-tt0806910}/Season 55/Trailers/Season_55_*.[ext]
+
+Show: Tatort
+  Season 56 (3 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Scene of the Crime (1970) {imdb-tt0806910}/Season 56
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Scene of the Crime (1970) {imdb-tt0806910}/Season 56/Season_56_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Scene of the Crime (1970) {imdb-tt0806910}/Season 56/Trailers/Season_56_*.[ext]
+
+Show: Tatort
+  Season 2024 (1 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tatort (1970) {imdb-tt0806910}/Season 2024
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tatort (1970) {imdb-tt0806910}/Season 2024/Season_2024_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tatort (1970) {imdb-tt0806910}/Season 2024/Trailers/Season_2024_*.[ext]
+
+Show: Tatort
+  Season 2025 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tatort (1970) {imdb-tt0806910}/Season 2025
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tatort (1970) {imdb-tt0806910}/Season 2025/Season_2025_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tatort (1970) {imdb-tt0806910}/Season 2025/Trailers/Season_2025_*.[ext]
+
+Show: Teacup
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Teacup (2024) {imdb-tt27031263}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Teacup (2024) {imdb-tt27031263}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Teacup (2024) {imdb-tt27031263}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Ted Lasso
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Ted Lasso (2020) {imdb-tt10986410}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Ted Lasso (2020) {imdb-tt10986410}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Ted Lasso (2020) {imdb-tt10986410}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Teenage Mutant Hero Turtles
+  Season 01 (5 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Teenage Mutant Ninja Turtles (1987) {imdb-tt0131613}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Teenage Mutant Ninja Turtles (1987) {imdb-tt0131613}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Teenage Mutant Ninja Turtles (1987) {imdb-tt0131613}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Teheran
+  Season 02 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tehran (2020) {imdb-tt10577736}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tehran (2020) {imdb-tt10577736}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tehran (2020) {imdb-tt10577736}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Teheran
+  Season 03 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tehran (2020) {imdb-tt10577736}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tehran (2020) {imdb-tt10577736}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tehran (2020) {imdb-tt10577736}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: The Terminal List - Die Abschussliste
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Terminal List (2022) {imdb-tt11743610}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Terminal List (2022) {imdb-tt11743610}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Terminal List (2022) {imdb-tt11743610}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Tracker
+  Season 01 (13 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tracker (2024) {imdb-tt13875494}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tracker (2024) {imdb-tt13875494}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tracker (2024) {imdb-tt13875494}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Tulsa King
+  Season 01 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tulsa King (2022) {imdb-tt16358384}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tulsa King (2022) {imdb-tt16358384}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tulsa King (2022) {imdb-tt16358384}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Tulsa King
+  Season 02 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tulsa King (2022) {imdb-tt16358384}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tulsa King (2022) {imdb-tt16358384}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Tulsa King (2022) {imdb-tt16358384}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Untold Stories of Hip Hop
+  Season 01 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Untold Stories of Hip Hop (2019) {imdb-tt10715140}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Untold Stories of Hip Hop (2019) {imdb-tt10715140}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Untold Stories of Hip Hop (2019) {imdb-tt10715140}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Vostro onore
+  Season 01 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Your Honor (2022) {imdb-tt13977288}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Your Honor (2022) {imdb-tt13977288}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Your Honor (2022) {imdb-tt13977288}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Vostro onore
+  Season 02 (1 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Your Honor (2022) {imdb-tt13977288}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Your Honor (2022) {imdb-tt13977288}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Your Honor (2022) {imdb-tt13977288}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: La voz ausente
+  Season 01 (7 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Absent Voice (2024) {imdb-tt27762425}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Absent Voice (2024) {imdb-tt27762425}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Absent Voice (2024) {imdb-tt27762425}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: The Walking Dead: Daryl Dixon
+  Season 02 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/The.Walking.Dead.Daryl.Dixon.S02.GERMAN.DL.1080p.WEB.H264-TSCC/The.Walking.Dead.Daryl.Dixon.S02E01.GERMAN.DL.1080p.WEB.H264-TSCC
+  Expected trailer locations:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/The.Walking.Dead.Daryl.Dixon.S02.GERMAN.DL.1080p.WEB.H264-TSCC/The.Walking.Dead.Daryl.Dixon.S02E01.GERMAN.DL.1080p.WEB.H264-TSCC/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/The.Walking.Dead.Daryl.Dixon.S02.GERMAN.DL.1080p.WEB.H264-TSCC/The.Walking.Dead.Daryl.Dixon.S02E01.GERMAN.DL.1080p.WEB.H264-TSCC/Trailers/Season_02_*.[ext]
+
+Show: The Walking Dead: Dead City
+  Season 02 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Walking Dead - Dead City (2023) {imdb-tt18546730}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Walking Dead - Dead City (2023) {imdb-tt18546730}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Walking Dead - Dead City (2023) {imdb-tt18546730}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: The Walking Dead: The Ones Who Live
+  Season 01 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Walking Dead: The Ones Who Live (2024) {imdb-tt9859436}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Walking Dead: The Ones Who Live (2024) {imdb-tt9859436}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Walking Dead: The Ones Who Live (2024) {imdb-tt9859436}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Washington Black
+  Season 01 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Washington.Black.S01.GERMAN.DL.HDR.2160p.WEB.h265-SAUERKRAUT/Washington.Black.S01E01.GERMAN.DL.HDR.2160p.WEB.h265-SAUERKRAUT
+  Expected trailer locations:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Washington.Black.S01.GERMAN.DL.HDR.2160p.WEB.h265-SAUERKRAUT/Washington.Black.S01E01.GERMAN.DL.HDR.2160p.WEB.h265-SAUERKRAUT/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Washington.Black.S01.GERMAN.DL.HDR.2160p.WEB.h265-SAUERKRAUT/Washington.Black.S01E01.GERMAN.DL.HDR.2160p.WEB.h265-SAUERKRAUT/Trailers/Season_01_*.[ext]
+
+Show: Wayward Pines
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Wayward Pines (2015) {imdb-tt2618986}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Wayward Pines (2015) {imdb-tt2618986}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Wayward Pines (2015) {imdb-tt2618986}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Wayward Pines
+  Season 02 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Wayward Pines (2015) {imdb-tt2618986}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Wayward Pines (2015) {imdb-tt2618986}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Wayward Pines (2015) {imdb-tt2618986}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Welpen Freunde
+  Season 01 (25 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Puppy Dog Pals (2017) {imdb-tt6688750}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Puppy Dog Pals (2017) {imdb-tt6688750}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Puppy Dog Pals (2017) {imdb-tt6688750}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: The White Lotus
+  Season 01 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The White Lotus (2021) {imdb-tt13406094}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The White Lotus (2021) {imdb-tt13406094}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The White Lotus (2021) {imdb-tt13406094}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: The White Lotus
+  Season 02 (7 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The White Lotus (2021) {imdb-tt13406094}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The White Lotus (2021) {imdb-tt13406094}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The White Lotus (2021) {imdb-tt13406094}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: The White Lotus
+  Season 03 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The White Lotus (2021) {imdb-tt13406094}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The White Lotus (2021) {imdb-tt13406094}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The White Lotus (2021) {imdb-tt13406094}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Wie ich ermordet wurde
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Wie.ich.ermordet.wurde.S01.GERMAN.DL.DOKU.1080p.WEB.H264-SYNERGiE/Wie.ich.ermordet.wurde.S01E01.GERMAN.DL.DOKU.1080p.WEB.H264-SYNERGiE
+  Expected trailer locations:
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Wie.ich.ermordet.wurde.S01.GERMAN.DL.DOKU.1080p.WEB.H264-SYNERGiE/Wie.ich.ermordet.wurde.S01E01.GERMAN.DL.DOKU.1080p.WEB.H264-SYNERGiE/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/transmission.verbergwest.appboxes.co/torrents/completed/Serien/Wie.ich.ermordet.wurde.S01.GERMAN.DL.DOKU.1080p.WEB.H264-SYNERGiE/Wie.ich.ermordet.wurde.S01E01.GERMAN.DL.DOKU.1080p.WEB.H264-SYNERGiE/Trailers/Season_01_*.[ext]
+
+Show: The Wire
+  Season 01 (13 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Wire (2002) {imdb-tt0306414}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Wire (2002) {imdb-tt0306414}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Wire (2002) {imdb-tt0306414}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Yellowjackets
+  Season 01 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowjackets (2021) {imdb-tt11041332}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowjackets (2021) {imdb-tt11041332}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowjackets (2021) {imdb-tt11041332}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Yellowjackets
+  Season 02 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowjackets (2021) {imdb-tt11041332}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowjackets (2021) {imdb-tt11041332}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowjackets (2021) {imdb-tt11041332}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Yellowjackets
+  Season 03 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowjackets (2021) {imdb-tt11041332}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowjackets (2021) {imdb-tt11041332}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowjackets (2021) {imdb-tt11041332}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Yellowstone
+  Season 01 (5 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowstone (2018) {imdb-tt4236770}/Season 01
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowstone (2018) {imdb-tt4236770}/Season 01/Season_01_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowstone (2018) {imdb-tt4236770}/Season 01/Trailers/Season_01_*.[ext]
+
+Show: Yellowstone
+  Season 02 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowstone (2018) {imdb-tt4236770}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowstone (2018) {imdb-tt4236770}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowstone (2018) {imdb-tt4236770}/Season 02/Trailers/Season_02_*.[ext]
+
+Show: Yellowstone
+  Season 03 (10 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowstone (2018) {imdb-tt4236770}/Season 03
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowstone (2018) {imdb-tt4236770}/Season 03/Season_03_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowstone (2018) {imdb-tt4236770}/Season 03/Trailers/Season_03_*.[ext]
+
+Show: Yellowstone
+  Season 05 (6 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowstone (2018) {imdb-tt4236770}/Season 05
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowstone (2018) {imdb-tt4236770}/Season 05/Season_05_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Yellowstone (2018) {imdb-tt4236770}/Season 05/Trailers/Season_05_*.[ext]
+
+Show: Das zweitbeste Krankenhaus der Galaxie
+  Season 02 (8 episodes)
+  Season directory:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Second Best Hospital in the Galaxy (2024) {imdb-tt11828386}/Season 02
+  Expected trailer locations:
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Second Best Hospital in the Galaxy (2024) {imdb-tt11828386}/Season 02/Season_02_*-trailer.[ext]
+    /APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/The Second Best Hospital in the Galaxy (2024) {imdb-tt11828386}/Season 02/Trailers/Season_02_*.[ext]
+
+
+================================================================================
