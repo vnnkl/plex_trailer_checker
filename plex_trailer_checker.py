@@ -235,6 +235,12 @@ def download_trailer(youtube_video_id, target_path, title="Trailer"):
     
     youtube_url = f"https://www.youtube.com/watch?v={youtube_video_id}"
     
+    # Show expected file location upfront
+    expected_file = target_path.replace('%(ext)s', cfg['TRAILER_FORMAT'])
+    print(f"    🎬 Downloading: {title}")
+    print(f"    🔗 YouTube: https://www.youtube.com/watch?v={youtube_video_id}")
+    print(f"    📁 Saving to: {expected_file}")
+    
     # yt-dlp command with quality and format settings
     cmd = [
         'yt-dlp',
@@ -249,82 +255,106 @@ def download_trailer(youtube_video_id, target_path, title="Trailer"):
     if cfg.get('TRIM_START_SECONDS', 0) > 0:
         trim_seconds = cfg['TRIM_START_SECONDS']
         cmd.extend(['--download-sections', f'*{trim_seconds}-inf'])
-        trim_message = f"skipping first {trim_seconds}s"
+        trim_message = f"trimming first {trim_seconds}s"
+        print(f"    ✂️ Will trim first {trim_seconds} seconds")
     else:
         trim_message = "no trimming"
     
     log.debug(f"Downloading trailer: {title}")
     log.debug(f"Quality setting: {cfg['TRAILER_QUALITY']}")
     log.debug(f"Command: {' '.join(cmd)}")
-    print(f"    🎬 Downloading ({trim_message}): {title}")
-    print(f"    🎯 Quality: {cfg['TRAILER_QUALITY']}")
+    print(f"    ⬇️ Starting download ({cfg['TRAILER_QUALITY']})...")
     
     try:
         result = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
         
         if result.returncode == 0:
-            log.info(f"Successfully downloaded trailer: {title}")
-            print(f"    ✅ Downloaded and trimmed: {title}")
+            # Find the actual downloaded file and show details
+            import glob
             
-            # Try to get video info to show actual quality downloaded
-            try:
-                # Parse yt-dlp output for quality info
-                output_text = result.stderr + result.stdout
-                if output_text:
-                    import re
-                    # Look for various resolution patterns in yt-dlp output
-                    patterns = [
-                        r'(\d{3,4}x\d{3,4})',  # e.g., 1920x1080
-                        r'(\d{3,4}p)',         # e.g., 1080p
-                        r'height=(\d+)',       # height=1080
-                    ]
-                    
-                    for pattern in patterns:
-                        resolution_match = re.search(pattern, output_text)
-                        if resolution_match:
-                            print(f"    📺 Resolution: {resolution_match.group(1)}")
-                            break
-                    else:
-                        # If we can't parse from output, check the actual file
-                        try:
-                            probe_cmd = ['ffprobe', '-v', 'quiet', '-select_streams', 'v:0', 
-                                       '-show_entries', 'stream=width,height', '-of', 'csv=p=0']
-                            # Extract actual filename from target_path
-                            actual_files = []
-                            target_dir = os.path.dirname(target_path)
-                            target_base = os.path.basename(target_path).replace('.%(ext)s', '')
-                            
-                            if os.path.exists(target_dir):
-                                for f in os.listdir(target_dir):
-                                    if f.startswith(target_base):
-                                        actual_files.append(os.path.join(target_dir, f))
-                            
-                            if actual_files:
-                                probe_result = subprocess.run(probe_cmd + [actual_files[0]], 
-                                                            capture_output=True, text=True, timeout=10)
+            pattern = target_path.replace('%(ext)s', '*')
+            matching_files = glob.glob(pattern)
+            
+            if matching_files:
+                actual_file = matching_files[0]
+                file_size = os.path.getsize(actual_file)
+                file_size_mb = file_size / (1024 * 1024)
+                
+                log.info(f"Successfully downloaded trailer: {title}")
+                print(f"    ✅ Download completed successfully!")
+                print(f"    📄 File: {os.path.basename(actual_file)}")
+                print(f"    📁 Full path: {actual_file}")
+                print(f"    📏 Size: {file_size_mb:.1f} MB")
+                
+                # Try to get video resolution info
+                try:
+                    # Parse yt-dlp output for quality info
+                    output_text = result.stderr + result.stdout
+                    if output_text:
+                        import re
+                        # Look for various resolution patterns in yt-dlp output
+                        patterns = [
+                            r'(\d{3,4}x\d{3,4})',  # e.g., 1920x1080
+                            r'(\d{3,4}p)',         # e.g., 1080p
+                            r'height=(\d+)',       # height=1080
+                        ]
+                        
+                        for pattern in patterns:
+                            resolution_match = re.search(pattern, output_text)
+                            if resolution_match:
+                                print(f"    🎬 Resolution: {resolution_match.group(1)}")
+                                break
+                        else:
+                            # If we can't parse from output, check the actual file with ffprobe
+                            try:
+                                probe_cmd = ['ffprobe', '-v', 'quiet', '-select_streams', 'v:0', 
+                                           '-show_entries', 'stream=width,height', '-of', 'csv=p=0', actual_file]
+                                probe_result = subprocess.run(probe_cmd, capture_output=True, text=True, timeout=10)
                                 if probe_result.returncode == 0:
                                     dimensions = probe_result.stdout.strip().split(',')
                                     if len(dimensions) >= 2:
                                         width, height = dimensions[0], dimensions[1]
-                                        print(f"    📺 Actual resolution: {width}x{height}")
-                        except:
-                            pass  # Don't fail if ffprobe isn't available
-            except:
-                pass  # Don't fail if we can't get quality info
-            
-            return True
+                                        print(f"    🎬 Resolution: {width}x{height}")
+                            except:
+                                print(f"    🎬 Resolution: Could not determine")
+                except:
+                    pass  # Don't fail if we can't get quality info
+                
+                return True
+            else:
+                print(f"    ⚠️ Download may have completed but file not found")
+                print(f"    🔍 Expected pattern: {pattern}")
+                return False
         else:
-            log.error(f"yt-dlp failed: {result.stderr}")
-            print(f"    ❌ Download failed: {result.stderr.strip()}")
+            error_output = result.stderr.strip()
+            log.error(f"yt-dlp failed: {error_output}")
+            
+            # Provide specific error messages
+            print(f"    ❌ Download failed!")
+            
+            if "Video unavailable" in error_output:
+                print(f"    🚫 Video is unavailable (removed or private)")
+            elif "Sign in to confirm your age" in error_output:
+                print(f"    🔞 Video requires age verification")
+            elif "Join this channel to get access" in error_output:
+                print(f"    🔒 Video requires channel membership")
+            elif "Private video" in error_output:
+                print(f"    🔒 Video is set to private")
+            else:
+                print(f"    ❓ Error: {error_output}")
+            
+            print(f"    🔗 Check manually: {youtube_url}")
             return False
     
     except subprocess.TimeoutExpired:
         log.error(f"Download timeout for trailer: {title}")
-        print(f"    ⏱️ Download timed out: {title}")
+        print(f"    ⏰ Download timed out after 5 minutes")
+        print(f"    💡 Video may be very large or connection is slow")
         return False
     except Exception as e:
         log.error(f"Error downloading trailer: {e}")
-        print(f"    ❌ Download error: {e}")
+        print(f"    ❌ Unexpected error: {e}")
+        print(f"    🔗 Check manually: {youtube_url}")
         return False
 
 

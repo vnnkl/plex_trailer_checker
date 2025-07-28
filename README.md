@@ -12,6 +12,7 @@ An advanced Python script that scans your Plex libraries to identify missing TV 
 - 🎪 **Season-Based**: Downloads one trailer per season (not per episode) for efficiency
 - 🎥 **High Quality Downloads**: Supports 4K/2160p and 1080p with intelligent fallbacks
 - ✂️ **Smart Trimming**: Automatically removes intro branding/logos from trailers
+- 📍 **Detailed Logging**: Shows exact file paths, sizes, and resolution of downloaded trailers
 
 ## Features
 
@@ -317,9 +318,9 @@ pip install --upgrade yt-dlp
 - Try switching between German (`de`) and English (`en`) language settings
 
 **Download failures**
-- Check internet connection
+- Switch language settings in config.json (try both 'de' and 'en')
 - Verify YouTube videos are accessible in your region
-- Check available disk space
+- Check internet connection and available disk space
 
 ### Connection Issues
 - Ensure your Plex server URL is correct and accessible

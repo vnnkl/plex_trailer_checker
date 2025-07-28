@@ -120,6 +120,7 @@ The script will:
 - Check `README.md` for full documentation
 - Check `example_usage.md` for detailed examples
 - Check `trailer_checker.log` for troubleshooting
+- If videos are unavailable, try switching language in config.json
 
 ## File Structure After Setup
 
