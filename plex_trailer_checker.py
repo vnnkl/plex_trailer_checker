@@ -464,6 +464,8 @@ def download_trailer(youtube_video_id, target_path, title="Trailer"):
         '--no-check-certificates',  # More permissive SSL handling for VPN
         '--geo-bypass',  # Attempt to bypass geo-blocking
         '--geo-bypass-country', 'DE',  # Tell yt-dlp we're in Germany
+        '--cookies-from-browser', 'chrome',  # Use Chrome cookies to bypass bot detection
+        '--user-agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',  # Human-like browser
         youtube_url
     ]
     
