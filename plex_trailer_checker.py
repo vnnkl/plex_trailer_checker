@@ -301,9 +301,11 @@ def connect_to_vpn():
             'VPN_PROTOCOL': protocol,
             'AUTOCONNECT': 'true' if auto_region else 'false',
             'PREFERRED_REGION': preferred_region if not auto_region else '',
-            'DISABLE_IPV6': 'yes',
+            'DISABLE_IPV6': 'no',  # Keep IPv6 (less likely to cause issues)
             'PIA_PF': 'false',  # No port forwarding needed
-            'PIA_DNS': 'true',  # Use PIA DNS
+            'PIA_DNS': 'false',  # Use system DNS (more compatible)
+            'DIP_TOKEN': 'none',  # No dedicated IP token
+            'MAX_LATENCY': '0.1',  # 100ms for more server options
             'PIA_CONNECT': 'true'
         })
         
@@ -316,17 +318,19 @@ def connect_to_vpn():
         # Run the setup script with interactive password prompt
         print(f"    🚀 Running PIA setup script...")
         print(f"    🔑 You may be prompted for your macOS password by sudo")
-        print(f"    💡 The setup process will take a moment...")
+        print(f"    💡 You'll see setup questions - most are pre-answered automatically")
+        print(f"    ⏱️ Setup timeout: {cfg.get('VPN', {}).get('connect_timeout', 300)} seconds")
+        print(f"    📝 Expected questions: server selection and connection method")
         
         # Use run() without capturing output so sudo can prompt for password
         import subprocess
         import time
         
-        # Don't capture output - let sudo interact with terminal directly
+        # Use our automated setup script with preserved environment
         result = subprocess.run(
-            ['sudo', './run_setup.sh'],
+            ['sudo', '-E', '../automated_pia_setup.sh'],
             env=env,
-            timeout=cfg.get('VPN', {}).get('connect_timeout', 120),
+            timeout=cfg.get('VPN', {}).get('connect_timeout', 300),
             text=True
         )
         result_code = result.returncode
@@ -373,17 +377,25 @@ def connect_to_vpn():
 def check_vpn_connection():
     """Check if VPN is connected by testing external IP"""
     try:
-        # Get current IP
-        response = requests.get('https://ipinfo.io/ip', timeout=10)
+        # Get current IP and location
+        response = requests.get('https://ipinfo.io/json', timeout=10)
         if response.status_code == 200:
-            current_ip = response.text.strip()
-            log.debug(f"Current external IP: {current_ip}")
+            data = response.json()
+            current_ip = data.get('ip', 'Unknown')
+            country = data.get('country', 'Unknown')
+            city = data.get('city', 'Unknown')
+            log.debug(f"Current external IP: {current_ip}, Location: {city}, {country}")
             
-            # Simple check - if we can get an IP, assume VPN is working
-            # More sophisticated checks could verify it's a PIA IP
+            # Check if we're in a German-speaking region (good for German trailers)
+            if country in ['DE', 'AT', 'CH']:
+                print(f"    🌍 Connected via: {city}, {country} (Good for German content)")
+            else:
+                print(f"    ⚠️ Connected via: {city}, {country} (May still have geo-blocking)")
+            
             return True
         return False
-    except:
+    except Exception as e:
+        log.error(f"Failed to check VPN connection: {e}")
         return False
 
 
