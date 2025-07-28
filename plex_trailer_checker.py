@@ -34,7 +34,7 @@ log = logging.getLogger("Plex_Trailer_Checker")
 
 # Setup PlexServer object
 try:
-    plex = PlexServer(cfg['PLEX_SERVER'], cfg['PLEX_TOKEN'])
+    plex = PlexServer(cfg['PLEX_SERVER'], cfg['PLEX_TOKEN'], timeout=60)
     log.info(f"Successfully connected to Plex server: {cfg['PLEX_SERVER']}")
 except Exception as e:
     log.exception("Exception connecting to server %r with token %r", cfg['PLEX_SERVER'], cfg['PLEX_TOKEN'])
@@ -707,27 +707,8 @@ def analyze_tv_series():
         'vpn_used': False
     }
     
-    # Connect to VPN if enabled and we're downloading trailers
+    # VPN setup moved to download phase to avoid Plex API timeouts
     vpn_connected = False
-    if cfg['DOWNLOAD_TRAILERS'] and cfg.get('VPN', {}).get('enabled', False):
-        print("\n🔐 Setting up VPN connection for downloads...")
-        vpn_connected = connect_to_vpn()
-        results['vpn_used'] = vpn_connected
-        
-        if not vpn_connected:
-            print("⚠️ VPN connection failed - continuing without VPN")
-            print("   (Downloads may fail due to geo-blocking)")
-        else:
-            # Test current location
-            try:
-                response = requests.get('https://ipinfo.io/json', timeout=5)
-                if response.status_code == 200:
-                    location_info = response.json()
-                    country = location_info.get('country', 'Unknown')
-                    city = location_info.get('city', 'Unknown')
-                    print(f"    🌍 Connected via: {city}, {country}")
-            except:
-                pass
     
     for library_name in cfg['PLEX_LIBRARIES']:
         try:
@@ -789,6 +770,27 @@ def analyze_tv_series():
                         
                         # Try to download trailer if enabled
                         if cfg['DOWNLOAD_TRAILERS'] and available_trailers:
+                            # Set up VPN before first download (if not already connected)
+                            if not vpn_connected and cfg.get('VPN', {}).get('enabled', False):
+                                print("\n🔐 Setting up VPN connection for downloads...")
+                                vpn_connected = connect_to_vpn()
+                                results['vpn_used'] = vpn_connected
+                                
+                                if not vpn_connected:
+                                    print("⚠️ VPN connection failed - continuing without VPN")
+                                    print("   (Downloads may fail due to geo-blocking)")
+                                else:
+                                    # Test current location
+                                    try:
+                                        response = requests.get('https://ipinfo.io/json', timeout=5)
+                                        if response.status_code == 200:
+                                            location_info = response.json()
+                                            country = location_info.get('country', 'Unknown')
+                                            city = location_info.get('city', 'Unknown')
+                                            print(f"    🌍 Connected via: {city}, {country}")
+                                    except:
+                                        pass
+                            
                             downloaded = attempt_season_trailer_download(season_info, available_trailers)
                             if downloaded:
                                 results['trailers_downloaded'] += 1
