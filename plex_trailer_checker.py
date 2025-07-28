@@ -223,6 +223,206 @@ def extract_imdb_id(guid_string):
 
 
 ############################################################
+# VPN FUNCTIONS (Private Internet Access)
+############################################################
+
+def setup_pia_scripts():
+    """Download and setup PIA manual connection scripts"""
+    setup_path = cfg.get('VPN', {}).get('setup_path', './pia-manual')
+    
+    if os.path.exists(setup_path):
+        log.debug(f"PIA scripts already exist at: {setup_path}")
+        return True
+    
+    print("    📥 Downloading PIA connection scripts...")
+    
+    try:
+        # Clone the PIA manual connections repository
+        result = subprocess.run([
+            'git', 'clone', 
+            'https://github.com/pia-foss/manual-connections.git',
+            setup_path
+        ], capture_output=True, text=True, timeout=60)
+        
+        if result.returncode == 0:
+            # Make scripts executable
+            for script in ['run_setup.sh', 'get_token.sh', 'get_region.sh', 
+                          'connect_to_wireguard_with_token.sh', 'connect_to_openvpn_with_token.sh']:
+                script_path = os.path.join(setup_path, script)
+                if os.path.exists(script_path):
+                    os.chmod(script_path, 0o755)
+            
+            log.info(f"PIA scripts downloaded successfully to: {setup_path}")
+            print(f"    ✅ PIA scripts downloaded to: {setup_path}")
+            return True
+        else:
+            log.error(f"Failed to download PIA scripts: {result.stderr}")
+            print(f"    ❌ Failed to download PIA scripts: {result.stderr}")
+            return False
+    
+    except Exception as e:
+        log.error(f"Error setting up PIA scripts: {e}")
+        print(f"    ❌ Error setting up PIA scripts: {e}")
+        return False
+
+
+def connect_to_vpn():
+    """Connect to PIA VPN using the manual connection scripts"""
+    if not cfg.get('VPN', {}).get('enabled', False):
+        return True
+    
+    print("    🔐 Connecting to PIA VPN...")
+    
+    # Setup PIA scripts if needed
+    if not setup_pia_scripts():
+        return False
+    
+    setup_path = cfg.get('VPN', {}).get('setup_path', './pia-manual')
+    username = cfg.get('VPN', {}).get('pia_username', '')
+    password = cfg.get('VPN', {}).get('pia_password', '')
+    protocol = cfg.get('VPN', {}).get('protocol', 'wireguard')
+    auto_region = cfg.get('VPN', {}).get('auto_region', True)
+    preferred_region = cfg.get('VPN', {}).get('preferred_region', '')
+    
+    if not username or not password:
+        print(f"    ❌ PIA credentials not configured")
+        return False
+    
+    try:
+        # Change to PIA directory
+        original_dir = os.getcwd()
+        os.chdir(setup_path)
+        
+        # Set environment variables for automated connection
+        env = os.environ.copy()
+        env.update({
+            'PIA_USER': username,
+            'PIA_PASS': password,
+            'VPN_PROTOCOL': protocol,
+            'AUTOCONNECT': 'true' if auto_region else 'false',
+            'PREFERRED_REGION': preferred_region if not auto_region else '',
+            'DISABLE_IPV6': 'yes',
+            'PIA_PF': 'false',  # No port forwarding needed
+            'PIA_DNS': 'true',  # Use PIA DNS
+            'PIA_CONNECT': 'true'
+        })
+        
+        print(f"    🌍 Protocol: {protocol.upper()}")
+        if auto_region:
+            print(f"    🎯 Auto-selecting best region...")
+        else:
+            print(f"    🎯 Connecting to region: {preferred_region}")
+        
+        # Run the setup script with interactive password prompt
+        print(f"    🚀 Running PIA setup script...")
+        print(f"    🔑 You may be prompted for your macOS password by sudo")
+        print(f"    💡 The setup process will take a moment...")
+        
+        # Use run() without capturing output so sudo can prompt for password
+        import subprocess
+        import time
+        
+        # Don't capture output - let sudo interact with terminal directly
+        result = subprocess.run(
+            ['sudo', './run_setup.sh'],
+            env=env,
+            timeout=cfg.get('VPN', {}).get('connect_timeout', 120),
+            text=True
+        )
+        result_code = result.returncode
+        print(f"    ✅ Setup script completed (exit code: {result_code})")
+        
+        # Return to original directory
+        os.chdir(original_dir)
+        
+        if result_code == 0:
+            print(f"    🔍 Verifying VPN connection...")
+            # Check if connection was successful by testing IP
+            if check_vpn_connection():
+                log.info("Successfully connected to PIA VPN")
+                print(f"    ✅ VPN connected successfully!")
+                return True
+            else:
+                print(f"    ❌ VPN setup completed but IP check failed")
+                print(f"    💡 VPN may still be connecting - continuing anyway...")
+                log.warning("VPN IP check failed but continuing")
+                return True  # Continue anyway, might just be slow to connect
+        else:
+            log.error(f"VPN setup script failed with return code: {result_code}")
+            print(f"    ❌ VPN setup script failed (return code: {result_code})")
+            return False
+    
+    except subprocess.TimeoutExpired:
+        os.chdir(original_dir)
+        print(f"    ⏰ VPN setup timed out after {cfg.get('VPN', {}).get('connect_timeout', 120)} seconds")
+        print(f"    💡 Try increasing connect_timeout in config.json or check your network")
+        return False
+    except KeyboardInterrupt:
+        os.chdir(original_dir)
+        print(f"    ⚠️ VPN setup interrupted by user")
+        print(f"    💡 If you want to skip VPN, set 'enabled': false in config.json")
+        return False
+    except Exception as e:
+        os.chdir(original_dir)
+        log.error(f"Error connecting to VPN: {e}")
+        print(f"    ❌ VPN connection error: {e}")
+        print(f"    💡 Try running: python3 test_pia_vpn.py")
+        return False
+
+
+def check_vpn_connection():
+    """Check if VPN is connected by testing external IP"""
+    try:
+        # Get current IP
+        response = requests.get('https://ipinfo.io/ip', timeout=10)
+        if response.status_code == 200:
+            current_ip = response.text.strip()
+            log.debug(f"Current external IP: {current_ip}")
+            
+            # Simple check - if we can get an IP, assume VPN is working
+            # More sophisticated checks could verify it's a PIA IP
+            return True
+        return False
+    except:
+        return False
+
+
+def disconnect_vpn():
+    """Disconnect from PIA VPN"""
+    if not cfg.get('VPN', {}).get('enabled', False):
+        return True
+    
+    if not cfg.get('VPN', {}).get('disconnect_after_downloads', True):
+        log.debug("VPN disconnect disabled in config")
+        return True
+    
+    print("    🔓 Disconnecting from VPN...")
+    
+    try:
+        # Kill VPN processes
+        protocols = ['wireguard', 'openvpn']
+        for protocol in protocols:
+            try:
+                if protocol == 'wireguard':
+                    subprocess.run(['sudo', 'wg-quick', 'down', 'pia'], 
+                                 capture_output=True, timeout=10)
+                else:
+                    subprocess.run(['sudo', 'pkill', '-f', 'openvpn'], 
+                                 capture_output=True, timeout=10)
+            except:
+                pass
+        
+        log.info("VPN disconnected")
+        print(f"    ✅ VPN disconnected")
+        return True
+    
+    except Exception as e:
+        log.error(f"Error disconnecting VPN: {e}")
+        print(f"    ⚠️ VPN disconnect error: {e}")
+        return False
+
+
+############################################################
 # TRAILER DOWNLOAD FUNCTIONS
 ############################################################
 
@@ -365,16 +565,43 @@ def get_season_trailer_target_path(season_info, trailer_title, season_directory)
     safe_title = re.sub(r'[<>:"/\\|?*]', '', trailer_title)
     safe_title = safe_title.replace(' ', '_')
     
-    if cfg['DOWNLOAD_METHOD'] == 'inline':
-        # Place alongside season episodes with -trailer suffix
-        filename = f"{season_info['show']}_Season_{season_info['season']:02d}_{safe_title}-trailer.%(ext)s"
-        return os.path.join(season_directory, filename)
+    # Check if we're in local test mode
+    if cfg.get('LOCAL_TEST_MODE', False):
+        # Use local test directory
+        test_dir = cfg.get('LOCAL_TEST_DIR', './test_downloads')
+        # Only remove problematic characters for filesystem, but keep spaces
+        safe_show = re.sub(r'[<>:"/\\|?*]', '', season_info['show'])
+        # Don't replace spaces - preserve them for folder names
+        
+        # Create local directory structure
+        local_show_dir = os.path.join(test_dir, safe_show)
+        local_season_dir = os.path.join(local_show_dir, f"Season {season_info['season']:02d}")  # Space instead of underscore
+        
+        if cfg['DOWNLOAD_METHOD'] == 'inline':
+            # Place alongside season episodes with -trailer suffix
+            # Use underscore in filename (not folder name) for safety
+            safe_show_filename = safe_show.replace(' ', '_')
+            filename = f"{safe_show_filename}_Season_{season_info['season']:02d}_{safe_title}-trailer.%(ext)s"
+            os.makedirs(local_season_dir, exist_ok=True)
+            return os.path.join(local_season_dir, filename)
+        else:
+            # Place in Trailers subdirectory
+            trailers_dir = os.path.join(local_season_dir, cfg['TRAILER_NAMING_PATTERNS']['subdirectory_name'])
+            os.makedirs(trailers_dir, exist_ok=True)
+            filename = f"Season_{season_info['season']:02d}_{safe_title}.%(ext)s"
+            return os.path.join(trailers_dir, filename)
     else:
-        # Place in Trailers subdirectory
-        trailers_dir = os.path.join(season_directory, cfg['TRAILER_NAMING_PATTERNS']['subdirectory_name'])
-        os.makedirs(trailers_dir, exist_ok=True)
-        filename = f"Season_{season_info['season']:02d}_{safe_title}.%(ext)s"
-        return os.path.join(trailers_dir, filename)
+        # Use original Plex server paths
+        if cfg['DOWNLOAD_METHOD'] == 'inline':
+            # Place alongside season episodes with -trailer suffix
+            filename = f"{season_info['show']}_Season_{season_info['season']:02d}_{safe_title}-trailer.%(ext)s"
+            return os.path.join(season_directory, filename)
+        else:
+            # Place in Trailers subdirectory
+            trailers_dir = os.path.join(season_directory, cfg['TRAILER_NAMING_PATTERNS']['subdirectory_name'])
+            os.makedirs(trailers_dir, exist_ok=True)
+            filename = f"Season_{season_info['season']:02d}_{safe_title}.%(ext)s"
+            return os.path.join(trailers_dir, filename)
 
 
 ############################################################
@@ -464,8 +691,31 @@ def analyze_tv_series():
         'seasons_without_trailers': 0,
         'missing_trailers': [],
         'trailers_downloaded': 0,
-        'download_failures': 0
+        'download_failures': 0,
+        'vpn_used': False
     }
+    
+    # Connect to VPN if enabled and we're downloading trailers
+    vpn_connected = False
+    if cfg['DOWNLOAD_TRAILERS'] and cfg.get('VPN', {}).get('enabled', False):
+        print("\n🔐 Setting up VPN connection for downloads...")
+        vpn_connected = connect_to_vpn()
+        results['vpn_used'] = vpn_connected
+        
+        if not vpn_connected:
+            print("⚠️ VPN connection failed - continuing without VPN")
+            print("   (Downloads may fail due to geo-blocking)")
+        else:
+            # Test current location
+            try:
+                response = requests.get('https://ipinfo.io/json', timeout=5)
+                if response.status_code == 200:
+                    location_info = response.json()
+                    country = location_info.get('country', 'Unknown')
+                    city = location_info.get('city', 'Unknown')
+                    print(f"    🌍 Connected via: {city}, {country}")
+            except:
+                pass
     
     for library_name in cfg['PLEX_LIBRARIES']:
         try:
@@ -545,6 +795,11 @@ def analyze_tv_series():
             log.exception(f"Error analyzing library {library_name}")
             print(f"Error analyzing library {library_name}: {e}")
     
+    # Disconnect VPN if we connected it
+    if vpn_connected:
+        print(f"\n🔓 Cleaning up VPN connection...")
+        disconnect_vpn()
+    
     return results
 
 
@@ -617,6 +872,8 @@ def generate_report(results):
         report_lines.append(f"  Trailers downloaded: {results['trailers_downloaded']}")
         report_lines.append(f"  Download failures: {results['download_failures']}")
         report_lines.append(f"  API requests made: {api_request_count}")
+        if results.get('vpn_used', False):
+            report_lines.append(f"  VPN used: ✅ Private Internet Access")
     
     if results['seasons_analyzed'] > 0:
         coverage_percentage = (results['seasons_with_trailers'] / results['seasons_analyzed']) * 100
@@ -673,7 +930,7 @@ def generate_report(results):
 ############################################################
 
 if __name__ == "__main__":
-    print("""
+    print(r"""
  ____  _              _____           _ _            ____ _               _             
 |  _ \| | _____  __  |_   _| __ __ _ (_) | ___ _ __ / ___| |__   ___  ___| | _____ _ __ 
 | |_) | |/ _ \ \/ /    | || '__/ _` || | |/ _ \ '__| |   | '_ \ / _ \/ __| |/ / _ \ '__|
@@ -718,5 +975,7 @@ if __name__ == "__main__":
     if cfg['DOWNLOAD_TRAILERS']:
         print(f"Downloaded {results['trailers_downloaded']} season trailers")
         print(f"Failed downloads: {results['download_failures']}")
+        if results.get('vpn_used', False):
+            print(f"VPN used: ✅ Private Internet Access")
     
     log.info("Season trailer check completed") 

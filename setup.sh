@@ -56,6 +56,18 @@ else
     pip install yt-dlp
 fi
 
+# Check if git is available (needed for VPN functionality)
+echo "📦 Checking git installation..."
+if command -v git &> /dev/null; then
+    echo "✓ git is available"
+else
+    echo "⚠️ git not found (needed for VPN functionality)"
+    echo "   Install git if you plan to use VPN bypass:"
+    echo "   • Ubuntu/Debian: sudo apt install git"
+    echo "   • macOS: brew install git"
+    echo "   • Or install Xcode Command Line Tools"
+fi
+
 echo ""
 echo "🎉 Setup complete!"
 echo ""

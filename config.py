@@ -29,6 +29,7 @@ base_config = {
         'base_url': 'https://api.kinocheck.de',
         'api_key': '',  # Optional: for higher rate limits
         'language': 'de',  # 'de' or 'en'
+        'fallback_language': 'en',  # Try this language if primary fails
         'max_requests_per_day': 1000
     },
     
@@ -40,6 +41,22 @@ base_config = {
     'MAX_TRAILER_DURATION': 600,  # Maximum trailer length in seconds (10 minutes)
     'TRIM_START_SECONDS': 3,  # Skip first N seconds of each trailer (removes intro branding)
     'OVERWRITE_EXISTING': False,
+    
+
+    
+    # VPN Configuration (Private Internet Access)
+    'VPN': {
+        'enabled': False,  # Set to True to use VPN for downloads
+        'provider': 'pia',  # Currently only 'pia' supported
+        'pia_username': '',  # Your PIA username (p1234567)
+        'pia_password': '',  # Your PIA password
+        'protocol': 'wireguard',  # 'wireguard' or 'openvpn'
+        'auto_region': True,  # Auto-select best region
+        'preferred_region': '',  # Specific region (e.g., 'us_california', 'de_berlin')
+        'connect_timeout': 60,  # Seconds to wait for connection
+        'disconnect_after_downloads': True,  # Disconnect VPN when done
+        'setup_path': './pia-manual'  # Where to install PIA scripts
+    },
     
     # Remote Server Transfer (if not running on Plex server)
     'REMOTE_TRANSFER': {
@@ -207,11 +224,43 @@ def prefilled_default_config(configs):
                 configs['TRIM_START_SECONDS'] = 0
             
             language = input("Preferred trailer language - (d)eutsch or (e)nglish? [d/e]: ").lower()
-            configs['KINOCHECK_API']['language'] = 'de' if language == 'd' else 'en'
+            primary_lang = 'de' if language == 'd' else 'en'
+            fallback_lang = 'en' if primary_lang == 'de' else 'de'
+            
+            configs['KINOCHECK_API']['language'] = primary_lang
+            configs['KINOCHECK_API']['fallback_language'] = fallback_lang
         
         api_key = input("KinoCheck API key (optional, press Enter to skip): ").strip()
         if api_key:
             configs['KINOCHECK_API']['api_key'] = api_key
+        
+        # Ask about VPN for geo-blocking bypass
+        print(f"\n🌐 VPN Configuration (for geo-blocking bypass):")
+        print(f"If trailers are blocked in your region, you can use a VPN.")
+        vpn_enabled = input("Use Private Internet Access (PIA) VPN for downloads? [y/n]: ").lower()
+        configs['VPN']['enabled'] = vpn_enabled == 'y'
+        
+        if configs['VPN']['enabled']:
+            print(f"\nYou'll need a PIA account. Get one at: https://www.privateinternetaccess.com/")
+            pia_username = input("PIA Username (e.g., p1234567): ").strip()
+            pia_password = input("PIA Password: ").strip()
+            
+            configs['VPN']['pia_username'] = pia_username
+            configs['VPN']['pia_password'] = pia_password
+            
+            print(f"\nVPN Protocol:")
+            print(f"  1. WireGuard (recommended - faster, modern)")
+            print(f"  2. OpenVPN (traditional, widely supported)")
+            protocol_choice = input("Choose protocol [1/2]: ").strip()
+            configs['VPN']['protocol'] = 'wireguard' if protocol_choice != '2' else 'openvpn'
+            
+            auto_region = input("Auto-select best region? [y/n]: ").lower()
+            configs['VPN']['auto_region'] = auto_region == 'y'
+            
+            if not configs['VPN']['auto_region']:
+                print(f"Common regions: us_california, us_newyork, de_berlin, uk_london, nl_amsterdam")
+                region = input("Preferred region (leave blank for auto): ").strip()
+                configs['VPN']['preferred_region'] = region
         
     except Exception as e:
         print(f"Error during configuration: {e}")

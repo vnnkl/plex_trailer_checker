@@ -13,6 +13,7 @@ An advanced Python script that scans your Plex libraries to identify missing TV 
 - 🎥 **High Quality Downloads**: Supports 4K/2160p and 1080p with intelligent fallbacks
 - ✂️ **Smart Trimming**: Automatically removes intro branding/logos from trailers
 - 📍 **Detailed Logging**: Shows exact file paths, sizes, and resolution of downloaded trailers
+- 🌐 **VPN Integration**: Built-in Private Internet Access (PIA) support for bypassing geo-blocking
 
 ## Features
 
@@ -196,6 +197,17 @@ This approach is:
 - **`TRIM_START_SECONDS`**: Skip first N seconds (removes intro branding/logos)
 - **`OVERWRITE_EXISTING`**: Whether to overwrite existing trailer files
 
+### VPN Settings (Geo-blocking Bypass)
+
+- **`VPN.enabled`**: Enable/disable VPN usage for downloads
+- **`VPN.provider`**: VPN provider (`"pia"` - Private Internet Access)
+- **`VPN.pia_username`**: Your PIA username (e.g., `p1234567`)
+- **`VPN.pia_password`**: Your PIA password
+- **`VPN.protocol`**: VPN protocol (`"wireguard"` or `"openvpn"`)
+- **`VPN.auto_region`**: Auto-select best region (`true`/`false`)
+- **`VPN.preferred_region`**: Specific region (e.g., `"us_california"`, `"de_berlin"`)
+- **`VPN.disconnect_after_downloads`**: Disconnect VPN when finished
+
 ### Matching Options
 
 - **`MATCHING.use_tmdb_ids`**: Use TMDB IDs for trailer lookup
@@ -319,8 +331,16 @@ pip install --upgrade yt-dlp
 
 **Download failures**
 - Switch language settings in config.json (try both 'de' and 'en')
+- Try VPN bypass: Enable VPN in config and get a PIA account
 - Verify YouTube videos are accessible in your region
 - Check internet connection and available disk space
+
+**VPN connection issues**
+- Test VPN setup: `python3 test_pia_vpn.py`
+- Ensure sudo access is available: `sudo -n true`
+- Verify PIA credentials are correct
+- Try different protocol (WireGuard ↔ OpenVPN)
+- Check PIA account is active and has remaining time
 
 ### Connection Issues
 - Ensure your Plex server URL is correct and accessible

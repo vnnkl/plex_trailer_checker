@@ -12,7 +12,7 @@ The script connects to your Plex server and discovers all episodes:
 - **Show**: Ironheart (2025)
 - **Season**: 01 (6 episodes)
 - **IMDB ID**: `tt13623126` (extracted from folder name or Plex metadata)
-- **Season Directory**: `/APPBOX_DATA/apps/ubuntu.verbergwest.appboxes.co/Downloads/complete/Serien/Ironheart (2025) {imdb-tt13623126}/Season 01/`
+- **Season Directory**: `/APPBOX_DATA/apps/yourappboxserverURL/Downloads/complete/Serien/Ironheart (2025) {imdb-tt13623126}/Season 01/`
 
 ### 2. KinoCheck API Query (Once Per Show)
 The script queries the KinoCheck API for available trailers:

@@ -54,6 +54,12 @@ Skip first few seconds of trailers (removes intro branding)? [y/n]: y
 How many seconds to skip at start? [3]: 3
 Preferred trailer language - (d)eutsch or (e)nglish? [d]
 KinoCheck API key (optional): [Enter to skip]
+
+🌐 VPN Configuration (for geo-blocking bypass):
+If trailers are blocked in your region, you can use a VPN.
+Use Private Internet Access (PIA) VPN for downloads? [y/n]: y
+PIA Username (e.g., p1234567): your_username
+PIA Password: [hidden]
 ```
 
 ## Alternative Installation Methods
@@ -115,11 +121,24 @@ The script will:
 - Download any newly available trailers
 - Update your Plex library
 
+## VPN Troubleshooting
+
+If downloads fail due to geo-blocking, test your VPN setup:
+```bash
+python3 test_pia_vpn.py
+```
+
+This will verify:
+- PIA credentials are working
+- VPN connection establishes correctly  
+- IP address changes (indicating bypass success)
+
 ## Need Help?
 
 - Check `README.md` for full documentation
 - Check `example_usage.md` for detailed examples
 - Check `trailer_checker.log` for troubleshooting
+- Test VPN: `python3 test_pia_vpn.py`
 - If videos are unavailable, try switching language in config.json
 
 ## File Structure After Setup
